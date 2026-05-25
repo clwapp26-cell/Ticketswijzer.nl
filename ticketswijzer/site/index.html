@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TicketsWijzer — Vergelijk ticketprijzen van álle attractieparken en dierentuinen</title>
+<meta name="description" content="Eén overzicht. Wij vergelijken de kassaprijs met elke aanbieder, zodat jij altijd het voordeligste ticket vindt.">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header><div class="wrap bar">
+  <a class="logo" href="index.html">
+    <svg viewBox="0 0 24 24" fill="none"><path d="M3 9.5 12 4l9 5.5v9a1 1 0 0 1-1 1h-4v-6H8v6H4a1 1 0 0 1-1-1v-9Z" stroke="#0e8f7e" stroke-width="1.8" stroke-linejoin="round"/><circle cx="12" cy="11" r="1.6" fill="#f4a52a"/></svg>
+    Tickets<span class="dot">Wijzer</span></a>
+  <nav class="nav-links">
+    <a href="categorie/attractieparken.html">Attractieparken</a>
+    <a href="categorie/dierentuinen.html">Dierentuinen</a>
+    <a href="categorie/waterparken.html">Waterparken</a>
+    <a href="categorie/indoor.html">Indoor</a>
+  </nav>
+</div></header>
+
+<section class="hero"><div class="wrap">
+  <h1>Vergelijk ticketprijzen van álle attractieparken en dierentuinen</h1>
+  <p>Eén overzicht. Wij vergelijken de kassaprijs met elke aanbieder, zodat jij altijd het voordeligste ticket vindt.</p>
+  <div class="search"><input id="q" type="text" placeholder="Zoek een park of dierentuin…" autocomplete="off"><button type="button">Vergelijk</button></div>
+  <div class="trust"><span>✓ Onafhankelijk &amp; gratis</span><span>✓ Officiële aanbieders</span><span>✓ Altijd actuele prijzen</span></div>
+</div></section>
+<main class="wrap">
+  <h2 class="section-title">Categorieën</h2>
+  <div class="cat-tiles"><a class="cat-tile" style="background:linear-gradient(135deg,#7c3aed,#a855f7)" href="categorie/attractieparken.html">Attractieparken<small>4 parken</small></a><a class="cat-tile" style="background:linear-gradient(135deg,#0e8f7e,#34b39e)" href="categorie/dierentuinen.html">Dierentuinen<small>5 parken</small></a><a class="cat-tile" style="background:linear-gradient(135deg,#0284c7,#38bdf8)" href="categorie/waterparken.html">Waterparken<small>1 parken</small></a><a class="cat-tile" style="background:linear-gradient(135deg,#db2777,#f472b6)" href="categorie/indoor.html">Indoor<small>2 parken</small></a></div>
+  <h2 class="section-title">Alle attracties</h2>
+  <div class="controls">
+  <div class="chips"><button class="chip active" data-cat="alle">Alles</button><button class="chip" data-cat="attractiepark">Attractieparken</button><button class="chip" data-cat="dierentuin">Dierentuinen</button><button class="chip" data-cat="waterpark">Waterparken</button><button class="chip" data-cat="indoor">Indoor</button></div>
+  <div class="sort">Sorteer:
+    <select id="sort">
+      <option value="save">Hoogste besparing</option>
+      <option value="price">Laagste prijs</option>
+      <option value="rating">Best beoordeeld</option>
+      <option value="name">Naam (A–Z)</option>
+    </select>
+  </div>
+</div>
+  <div class="grid" id="grid"><a class="card" href="attractie/efteling.html"
+      data-cat="attractiepark" data-naam="Efteling" data-plaats="Kaatsheuvel"
+      data-cheapest="38.5" data-savings="6.5" data-rating="4.8">
+  <div class="thumb" style="background:linear-gradient(135deg,#7c3aed,#a855f7)">
+    <span class="cat">Attractieparken</span><span class="save">bespaar €6,50</span>
+  </div>
+  <div class="card-body">
+    <h3>Efteling</h3>
+    <div class="loc">📍 Kaatsheuvel, Noord-Brabant</div>
+    <div class="price-row"><span class="from">vanaf</span><span class="price">€38,50</span><span class="strike">€45,00</span></div>
+    <div class="meta">
+      <span class="stars">★★★★★ <span style="color:var(--ink-soft)">4.8</span></span>
+      <span class="vendors-n">4 aanbieders</span>
+    </div>
+  </div>
+</a><a class="card" href="attractie/walibi.html"
+      data-cat="attractiepark" data-naam="Walibi Holland" data-plaats="Biddinghuizen"
+      data-cheapest="29.99" data-savings="12.51" data-rating="4.5">
+  <div class="thumb" style="background:linear-gradient(135deg,#7c3aed,#a855f7)">
+    <span class="cat">Attractieparken</span><span class="save">bespaar €12,51</span>
+  </div>
+  <div class="card-body">
+    <h3>Walibi Holland</h3>
+    <div class="loc">📍 Biddinghuizen, Flevoland</div>
+    <div class="price-row"><span class="from">vanaf</span><span class="price">€29,99</span><span class="strike">€42,50</span></div>
+    <div class="meta">
+      <span class="stars">★★★★☆ <span style="color:var(--ink-soft)">4.5</span></span>
+      <span class="vendors-n">3 aanbieders</span>
+    </div>
+  </div>
+</a><a class="card" href="attractie/toverland.html"
+      data-cat="attractiepark" data-naam="Toverland" data-plaats="Sevenum"
+      data-cheapest="31.5" data-savings="4.5" data-rating="4.6">
+  <div class="thumb" style="background:linear-gradient(135deg,#7c3aed,#a855f7)">
+    <span class="cat">Attractieparken</span><span class="save">bespaar €4,50</span>
+  </div>
+  <div class="card-body">
+    <h3>Toverland</h3>
+    <div class="loc">📍 Sevenum, Limburg</div>
+    <div class="price-row"><span class="from">vanaf</span><span class="price">€31,50</span><span class="strike">€36,00</span></div>
+    <div class="meta">
+      <span class="stars">★★★★★ <span style="color:var(--ink-soft)">4.6</span></span>
+      <span class="vendors-n">3 aanbieders</span>
+    </div>
+  </div>
+</a><a class="card" href="attractie/duinrell.html"
+      data-cat="attractiepark" data-naam="Duinrell" data-plaats="Wassenaar"
+      data-cheapest="27.95" data-savings="6.55" data-rating="4.3">
+  <div class="thumb" style="background:linear-gradient(135deg,#7c3aed,#a855f7)">
+    <span class="cat">Attractieparken</span><span class="save">bespaar €6,55</span>
+  </div>
+  <div class="card-body">
+    <h3>Duinrell</h3>
+    <div class="loc">📍 Wassenaar, Zuid-Holland</div>
+    <div class="price-row"><span class="from">vanaf</span><span class="price">€27,95</span><span class="strike">€34,50</span></div>
+    <div class="meta">
+      <span class="stars">★★★★☆ <span style="color:var(--ink-soft)">4.3</span></span>
+      <span class="vendors-n">3 aanbieders</span>
+    </div>
+  </div>
+</a><a class="card" href="attractie/burgers-zoo.html"
+      data-cat="dierentuin" data-naam="Burgers&#x27; Zoo" data-plaats="Arnhem"
+      data-cheapest="27.5" data-savings="3.0" data-rating="4.7">
+  <div class="thumb" style="background:linear-gradient(135deg,#0e8f7e,#34b39e)">
+    <span class="cat">Dierentuinen</span><span class="save">bespaar €3,00</span>
+  </div>
+  <div class="card-body">
+    <h3>Burgers&#x27; Zoo</h3>
+    <div class="loc">📍 Arnhem, Gelderland</div>
+    <div class="price-row"><span class="from">vanaf</span><span class="price">€27,50</span><span class="strike">€30,50</span></div>
+    <div class="meta">
+      <span class="stars">★★★★★ <span style="color:var(--ink-soft)">4.7</span></span>
+      <span class="vendors-n">3 aanbieders</span>
+    </div>
+  </div>
+</a><a class="card" href="attractie/artis.html"
+      data-cat="dierentuin" data-naam="ARTIS" data-plaats="Amsterdam"
+      data-cheapest="25.5" data-savings="1.5" data-rating="4.6">
+  <div class="thumb" style="background:linear-gradient(135deg,#0e8f7e,#34b39e)">
+    <span class="cat">Dierentuinen</span><span class="save">bespaar €1,50</span>
+  </div>
+  <div class="card-body">
+    <h3>ARTIS</h3>
+    <div class="loc">📍 Amsterdam, Noord-Holland</div>
+    <div class="price-row"><span class="from">vanaf</span><span class="price">€25,50</span><span class="strike">€27,00</span></div>
+    <div class="meta">
+      <span class="stars">★★★★★ <span style="color:var(--ink-soft)">4.6</span></span>
+      <span class="vendors-n">3 aanbieders</span>
+    </div>
+  </div>
+</a><a class="card" href="attractie/ouwehands.html"
+      data-cat="dierentuin" data-naam="Ouwehands Dierenpark" data-plaats="Rhenen"
+      data-cheapest="25.95" data-savings="3.55" data-rating="4.7">
+  <div class="thumb" style="background:linear-gradient(135deg,#0e8f7e,#34b39e)">
+    <span class="cat">Dierentuinen</span><span class="save">bespaar €3,55</span>
+  </div>
+  <div class="card-body">
+    <h3>Ouwehands Dierenpark</h3>
+    <div class="loc">📍 Rhenen, Utrecht</div>
+    <div class="price-row"><span class="from">vanaf</span><span class="price">€25,95</span><span class="strike">€29,50</span></div>
+    <div class="meta">
+      <span class="stars">★★★★★ <span style="color:var(--ink-soft)">4.7</span></span>
+      <span class="vendors-n">3 aanbieders</span>
+    </div>
+  </div>
+</a><a class="card" href="attractie/beekse-bergen.html"
+      data-cat="dierentuin" data-naam="Safaripark Beekse Bergen" data-plaats="Hilvarenbeek"
+      data-cheapest="27.5" data-savings="6.5" data-rating="4.5">
+  <div class="thumb" style="background:linear-gradient(135deg,#0e8f7e,#34b39e)">
+    <span class="cat">Dierentuinen</span><span class="save">bespaar €6,50</span>
+  </div>
+  <div class="card-body">
+    <h3>Safaripark Beekse Bergen</h3>
+    <div class="loc">📍 Hilvarenbeek, Noord-Brabant</div>
+    <div class="price-row"><span class="from">vanaf</span><span class="price">€27,50</span><span class="strike">€34,00</span></div>
+    <div class="meta">
+      <span class="stars">★★★★☆ <span style="color:var(--ink-soft)">4.5</span></span>
+      <span class="vendors-n">3 aanbieders</span>
+    </div>
+  </div>
+</a><a class="card" href="attractie/dolfinarium.html"
+      data-cat="dierentuin" data-naam="Dolfinarium" data-plaats="Harderwijk"
+      data-cheapest="27.5" data-savings="7.0" data-rating="4.2">
+  <div class="thumb" style="background:linear-gradient(135deg,#0e8f7e,#34b39e)">
+    <span class="cat">Dierentuinen</span><span class="save">bespaar €7,00</span>
+  </div>
+  <div class="card-body">
+    <h3>Dolfinarium</h3>
+    <div class="loc">📍 Harderwijk, Gelderland</div>
+    <div class="price-row"><span class="from">vanaf</span><span class="price">€27,50</span><span class="strike">€34,50</span></div>
+    <div class="meta">
+      <span class="stars">★★★★☆ <span style="color:var(--ink-soft)">4.2</span></span>
+      <span class="vendors-n">3 aanbieders</span>
+    </div>
+  </div>
+</a><a class="card" href="attractie/tikibad.html"
+      data-cat="waterpark" data-naam="Tikibad (Duinrell)" data-plaats="Wassenaar"
+      data-cheapest="24.0" data-savings="4.5" data-rating="4.4">
+  <div class="thumb" style="background:linear-gradient(135deg,#0284c7,#38bdf8)">
+    <span class="cat">Waterparken</span><span class="save">bespaar €4,50</span>
+  </div>
+  <div class="card-body">
+    <h3>Tikibad (Duinrell)</h3>
+    <div class="loc">📍 Wassenaar, Zuid-Holland</div>
+    <div class="price-row"><span class="from">vanaf</span><span class="price">€24,00</span><span class="strike">€28,50</span></div>
+    <div class="meta">
+      <span class="stars">★★★★☆ <span style="color:var(--ink-soft)">4.4</span></span>
+      <span class="vendors-n">2 aanbieders</span>
+    </div>
+  </div>
+</a><a class="card" href="attractie/plopsa-coevorden.html"
+      data-cat="indoor" data-naam="Plopsa Indoor Coevorden" data-plaats="Coevorden"
+      data-cheapest="21.5" data-savings="4.0" data-rating="4.1">
+  <div class="thumb" style="background:linear-gradient(135deg,#db2777,#f472b6)">
+    <span class="cat">Indoor</span><span class="save">bespaar €4,00</span>
+  </div>
+  <div class="card-body">
+    <h3>Plopsa Indoor Coevorden</h3>
+    <div class="loc">📍 Coevorden, Drenthe</div>
+    <div class="price-row"><span class="from">vanaf</span><span class="price">€21,50</span><span class="strike">€25,50</span></div>
+    <div class="meta">
+      <span class="stars">★★★★☆ <span style="color:var(--ink-soft)">4.1</span></span>
+      <span class="vendors-n">3 aanbieders</span>
+    </div>
+  </div>
+</a><a class="card" href="attractie/monkey-town.html"
+      data-cat="indoor" data-naam="Monkey Town" data-plaats="Meerdere locaties"
+      data-cheapest="10.95" data-savings="1.55" data-rating="3.9">
+  <div class="thumb" style="background:linear-gradient(135deg,#db2777,#f472b6)">
+    <span class="cat">Indoor</span><span class="save">bespaar €1,55</span>
+  </div>
+  <div class="card-body">
+    <h3>Monkey Town</h3>
+    <div class="loc">📍 Meerdere locaties, Landelijk</div>
+    <div class="price-row"><span class="from">vanaf</span><span class="price">€10,95</span><span class="strike">€12,50</span></div>
+    <div class="meta">
+      <span class="stars">★★★★☆ <span style="color:var(--ink-soft)">3.9</span></span>
+      <span class="vendors-n">2 aanbieders</span>
+    </div>
+  </div>
+</a><div class="empty" id="empty" style="display:none">Geen resultaten gevonden.</div></div>
+</main>
+<script src="assets/app.js"></script>
+<footer><div class="wrap footer-flex">
+  <div><strong>TicketsWijzer</strong> — vergelijk &amp; bespaar op dagjes uit in Nederland</div>
+  <div>ticketswijzer.nl · voorbeelddata</div>
+</div></footer>
+</body></html>
