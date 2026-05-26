@@ -11,6 +11,7 @@
     "attractiepark": { "label": "Attractieparken", "slug": "attractieparken", "c1": "#7c3aed", "c2": "#a855f7" },
     "dierentuin":    { "label": "Dierentuinen",    "slug": "dierentuinen",    "c1": "#0e8f7e", "c2": "#34b39e" },
     "waterpark":     { "label": "Waterparken",     "slug": "waterparken",     "c1": "#0284c7", "c2": "#38bdf8" },
-    "indoor":        { "label": "Indoor",          "slug": "indoor",          "c1": "#db2777", "c2": "#f472b6" }
+    "indoor":        { "label": "Indoor",          "slug": "indoor",          "c1": "#db2777", "c2": "#f472b6" },
+    "museum":        { "label": "Musea",           "slug": "musea",           "c1": "#b45309", "c2": "#f59e0b" }
   }
 }

@@ -139,6 +139,7 @@ def head(title, desc, root, site, path="", jsonld="", og_type="website"):
     <a href="{root}categorie/dierentuinen.html">Dierentuinen</a>
     <a href="{root}categorie/waterparken.html">Waterparken</a>
     <a href="{root}categorie/indoor.html">Indoor</a>
+    <a href="{root}categorie/musea.html">Musea</a>
     <a href="{root}gids/index.html">Gidsen</a>
   </nav>
 </div></header>
@@ -296,6 +297,10 @@ def build(out=None):
         if a.get("verified"):
             src = f" · bron: {esc(a['bron'])}" if a.get("bron") else ""
             verified_line = f'<div class="verified">✓ Prijzen geverifieerd op {esc(a["verified"])}{src}</div>'
+        if a["savings"] > 0:
+            savings_html = f'<div class="savings-box">Goedkoopste ticket: <strong>{eur(a["cheapest"])}</strong> — je bespaart tot <strong>{eur(a["savings"])} ({a["save_pct"]}%)</strong> t.o.v. de kassaprijs van {eur(a["kassa"])}.</div>'
+        else:
+            savings_html = f'<div class="savings-box">Prijs: <strong>{eur(a["cheapest"])}</strong> — bij alle aanbieders gelijk. Kies hieronder waar je het liefst boekt.</div>'
         det_path = f"attractie/{a['id']}.html"
         canonical = base + "/" + det_path
         prod_ld = {
@@ -331,7 +336,7 @@ def build(out=None):
 </div></section>
 <main class="wrap detail-body">
   <p class="lead">{esc(a['omschrijving'])}</p>
-  <div class="savings-box">Goedkoopste ticket: <strong>{eur(a['cheapest'])}</strong> — je bespaart tot <strong>{eur(a['savings'])} ({a['save_pct']}%)</strong> t.o.v. de kassaprijs van {eur(a['kassa'])}.</div>
+  {savings_html}
   <h2 class="section-title">Prijsvergelijking</h2>
   <table class="cmp"><thead><tr><th>Aanbieder</th><th>Prijs (volw.)</th><th></th></tr></thead><tbody>{rows}</tbody></table>
   {verified_line}
