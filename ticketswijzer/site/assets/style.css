@@ -92,6 +92,7 @@ nav.nav-links a:hover{color:var(--teal)}
 
 footer{border-top:1px solid var(--line);background:#fff;padding:26px 0;font-size:13px;color:var(--ink-soft)}
 .footer-flex{display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px}
-.disclaimer{margin-top:18px;font-size:12px;color:var(--ink-soft);background:var(--bg);padding:10px 12px;border-radius:8px}
+.verified{margin-top:14px;font-size:13px;color:#0e8f7e;font-weight:600}
+.disclaimer{margin-top:10px;font-size:12px;color:var(--ink-soft);background:var(--bg);padding:10px 12px;border-radius:8px}
 .empty{grid-column:1/-1;text-align:center;color:var(--ink-soft);padding:50px}
 @media(max-width:560px){.hero h1{font-size:26px}.nav-links{display:none}}
