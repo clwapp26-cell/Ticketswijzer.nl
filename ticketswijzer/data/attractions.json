@@ -1,100 +1,380 @@
 {
-  "_comment": "VOORBEELDDATA — prijzen zijn illustratief en moeten voor lancering geverifieerd worden. Affiliate-links zijn placeholders (#). Voeg een attractie toe door een object aan 'attractions' toe te voegen en build.py opnieuw te draaien.",
+  "_comment": "GEGENEREERD door ingest.py uit attractions.csv + offers.csv -- niet handmatig bewerken.",
   "site": {
     "name": "TicketsWijzer",
     "domain": "ticketswijzer.nl",
+    "base_url": "https://ticketswijzer.nl",
     "tagline": "Vergelijk ticketprijzen van álle attractieparken en dierentuinen",
     "intro": "Eén overzicht. Wij vergelijken de kassaprijs met elke aanbieder, zodat jij altijd het voordeligste ticket vindt."
   },
   "categories": {
-    "attractiepark": { "label": "Attractieparken", "slug": "attractieparken", "c1": "#7c3aed", "c2": "#a855f7" },
-    "dierentuin":    { "label": "Dierentuinen",    "slug": "dierentuinen",    "c1": "#0e8f7e", "c2": "#34b39e" },
-    "waterpark":     { "label": "Waterparken",     "slug": "waterparken",     "c1": "#0284c7", "c2": "#38bdf8" },
-    "indoor":        { "label": "Indoor",          "slug": "indoor",          "c1": "#db2777", "c2": "#f472b6" }
+    "attractiepark": {
+      "label": "Attractieparken",
+      "slug": "attractieparken",
+      "c1": "#7c3aed",
+      "c2": "#a855f7"
+    },
+    "dierentuin": {
+      "label": "Dierentuinen",
+      "slug": "dierentuinen",
+      "c1": "#0e8f7e",
+      "c2": "#34b39e"
+    },
+    "waterpark": {
+      "label": "Waterparken",
+      "slug": "waterparken",
+      "c1": "#0284c7",
+      "c2": "#38bdf8"
+    },
+    "indoor": {
+      "label": "Indoor",
+      "slug": "indoor",
+      "c1": "#db2777",
+      "c2": "#f472b6"
+    }
   },
   "attractions": [
-    { "id": "efteling", "naam": "Efteling", "cat": "attractiepark", "plaats": "Kaatsheuvel", "provincie": "Noord-Brabant", "rating": 4.8, "kassa": 45.00,
-      "omschrijving": "Het grootste en bekendste attractiepark van Nederland, beroemd om zijn sprookjesbos en achtbanen.",
+    {
+      "id": "efteling",
+      "naam": "Efteling",
+      "cat": "attractiepark",
+      "plaats": "Kaatsheuvel",
+      "provincie": "Noord-Brabant",
+      "rating": 4.8,
+      "kassa": 56.0,
+      "verified": "2026-05-26",
+      "bron": "efteling.com",
+      "omschrijving": "Het grootste en bekendste attractiepark van Nederland, beroemd om zijn sprookjesbos en achtbanen. Efteling werkt met dynamische dagprijzen: op rustige dagen ben je het voordeligst uit.",
       "offers": [
-        { "v": "Kassa (park)", "p": 45.00, "t": "flexibel", "url": "#" },
-        { "v": "Tiqets", "p": 42.00, "t": "datumticket", "url": "#" },
-        { "v": "Tripper", "p": 40.50, "t": "datumticket", "url": "#" },
-        { "v": "Efteling vroegboek", "p": 38.50, "t": "vroegboek", "url": "#" }
-      ] },
-    { "id": "walibi", "naam": "Walibi Holland", "cat": "attractiepark", "plaats": "Biddinghuizen", "provincie": "Flevoland", "rating": 4.5, "kassa": 42.50,
-      "omschrijving": "Adrenalinepark met spectaculaire achtbanen zoals Untamed en Goliath.",
+        {
+          "v": "Aan de poort",
+          "p": 56.0,
+          "t": "flexibel",
+          "url": "https://www.efteling.com/nl/tickets"
+        },
+        {
+          "v": "Efteling.nl online",
+          "p": 40.0,
+          "t": "datumticket",
+          "url": "https://www.efteling.com/nl/tickets"
+        }
+      ]
+    },
+    {
+      "id": "walibi",
+      "naam": "Walibi Holland",
+      "cat": "attractiepark",
+      "plaats": "Biddinghuizen",
+      "provincie": "Flevoland",
+      "rating": 4.5,
+      "kassa": 46.0,
+      "verified": "2026-05-26",
+      "bron": "walibi.nl",
+      "omschrijving": "Adrenalinepark met spectaculaire achtbanen zoals Untamed en Goliath. Online en via vroegboekdeals ligt de prijs flink onder het kassatarief.",
       "offers": [
-        { "v": "Kassa (park)", "p": 42.50, "t": "flexibel", "url": "#" },
-        { "v": "Tiqets", "p": 37.00, "t": "datumticket", "url": "#" },
-        { "v": "Walibi vroegboek", "p": 29.99, "t": "vroegboek", "url": "#" }
-      ] },
-    { "id": "toverland", "naam": "Toverland", "cat": "attractiepark", "plaats": "Sevenum", "provincie": "Limburg", "rating": 4.6, "kassa": 36.00,
-      "omschrijving": "Sfeervol attractiepark met afwisseling tussen indoor- en outdoor-themagebieden.",
+        {
+          "v": "Aan de poort",
+          "p": 46.0,
+          "t": "flexibel",
+          "url": "https://www.walibi.nl/nl/tickets"
+        },
+        {
+          "v": "Walibi.nl online",
+          "p": 33.95,
+          "t": "datumticket",
+          "url": "https://www.walibi.nl/nl/tickets"
+        },
+        {
+          "v": "Tripper actie",
+          "p": 29.95,
+          "t": "actie",
+          "url": "https://www.tripper.nl/deal/ticket-walibi-holland-biddinghuizen-korting"
+        }
+      ]
+    },
+    {
+      "id": "toverland",
+      "naam": "Toverland",
+      "cat": "attractiepark",
+      "plaats": "Sevenum",
+      "provincie": "Limburg",
+      "rating": 4.6,
+      "kassa": 46.5,
+      "verified": "2026-05-26",
+      "bron": "toverland.com",
+      "omschrijving": "Sfeervol attractiepark met afwisseling tussen indoor- en outdoor-themagebieden. Wie minimaal 7 dagen vooraf boekt, krijgt Early Bird-korting.",
       "offers": [
-        { "v": "Kassa (park)", "p": 36.00, "t": "flexibel", "url": "#" },
-        { "v": "Tiqets", "p": 33.00, "t": "datumticket", "url": "#" },
-        { "v": "Tripper", "p": 31.50, "t": "datumticket", "url": "#" }
-      ] },
-    { "id": "duinrell", "naam": "Duinrell", "cat": "attractiepark", "plaats": "Wassenaar", "provincie": "Zuid-Holland", "rating": 4.3, "kassa": 34.50,
-      "omschrijving": "Attractiepark en vakantiepark met gratis attracties en het Tikibad.",
+        {
+          "v": "Aan de poort",
+          "p": 46.5,
+          "t": "flexibel",
+          "url": "https://tickets.toverland.com/"
+        },
+        {
+          "v": "Toverland.com Early Bird",
+          "p": 30.0,
+          "t": "vroegboek",
+          "url": "https://tickets.toverland.com/"
+        }
+      ]
+    },
+    {
+      "id": "duinrell",
+      "naam": "Duinrell",
+      "cat": "attractiepark",
+      "plaats": "Wassenaar",
+      "provincie": "Zuid-Holland",
+      "rating": 4.3,
+      "kassa": 26.0,
+      "verified": "2026-05-26",
+      "bron": "duinrell.nl",
+      "omschrijving": "Attractiepark en vakantiepark met gratis attracties en het Tikibad. Kaartjes zijn uitsluitend online te koop met dynamische prijzen.",
       "offers": [
-        { "v": "Kassa (park)", "p": 34.50, "t": "flexibel", "url": "#" },
-        { "v": "Online park", "p": 29.50, "t": "datumticket", "url": "#" },
-        { "v": "Groupon", "p": 27.95, "t": "actie", "url": "#" }
-      ] },
-    { "id": "burgers-zoo", "naam": "Burgers' Zoo", "cat": "dierentuin", "plaats": "Arnhem", "provincie": "Gelderland", "rating": 4.7, "kassa": 30.50,
-      "omschrijving": "Dierentuin met indrukwekkende ecodisplays: Bush, Desert, Ocean en Mangrove.",
+        {
+          "v": "Standaard (zonder datum)",
+          "p": 26.0,
+          "t": "flexibel",
+          "url": "https://tickets.duinrell.com/"
+        },
+        {
+          "v": "Duinrell.com online",
+          "p": 19.95,
+          "t": "datumticket",
+          "url": "https://tickets.duinrell.com/"
+        }
+      ]
+    },
+    {
+      "id": "burgers-zoo",
+      "naam": "Burgers' Zoo",
+      "cat": "dierentuin",
+      "plaats": "Arnhem",
+      "provincie": "Gelderland",
+      "rating": 4.7,
+      "kassa": 29.0,
+      "verified": "2026-05-26",
+      "bron": "burgerszoo.nl",
+      "omschrijving": "Dierentuin met indrukwekkende ecodisplays: Bush, Desert, Ocean en Mangrove. Online datumtickets zijn voordeliger dan aan de kassa.",
       "offers": [
-        { "v": "Kassa (park)", "p": 30.50, "t": "flexibel", "url": "#" },
-        { "v": "Tiqets", "p": 28.00, "t": "datumticket", "url": "#" },
-        { "v": "Online park", "p": 27.50, "t": "datumticket", "url": "#" }
-      ] },
-    { "id": "artis", "naam": "ARTIS", "cat": "dierentuin", "plaats": "Amsterdam", "provincie": "Noord-Holland", "rating": 4.6, "kassa": 27.00,
-      "omschrijving": "De oudste dierentuin van Nederland, midden in Amsterdam, met sterrenwacht en aquarium.",
+        {
+          "v": "Aan de poort",
+          "p": 29.0,
+          "t": "flexibel",
+          "url": "https://www.burgerszoo.nl/reserveren"
+        },
+        {
+          "v": "Burgerszoo.nl online",
+          "p": 28.0,
+          "t": "datumticket",
+          "url": "https://www.burgerszoo.nl/reserveren"
+        },
+        {
+          "v": "Tripper actie",
+          "p": 24.0,
+          "t": "actie",
+          "url": "https://www.tripper.nl/deal/entreeticket-burgers-zoo-korting"
+        }
+      ]
+    },
+    {
+      "id": "artis",
+      "naam": "ARTIS",
+      "cat": "dierentuin",
+      "plaats": "Amsterdam",
+      "provincie": "Noord-Holland",
+      "rating": 4.6,
+      "kassa": 29.5,
+      "verified": "2026-05-26",
+      "bron": "artis.nl",
+      "omschrijving": "De oudste dierentuin van Nederland, midden in Amsterdam, met sterrenwacht en aquarium. Online is altijd voordeliger en de prijs verschilt per dag.",
       "offers": [
-        { "v": "Kassa (park)", "p": 27.00, "t": "flexibel", "url": "#" },
-        { "v": "Online park", "p": 25.50, "t": "datumticket", "url": "#" },
-        { "v": "Tiqets", "p": 25.50, "t": "datumticket", "url": "#" }
-      ] },
-    { "id": "ouwehands", "naam": "Ouwehands Dierenpark", "cat": "dierentuin", "plaats": "Rhenen", "provincie": "Utrecht", "rating": 4.7, "kassa": 29.50,
-      "omschrijving": "Dierenpark bekend van de pandaverblijven en de speeltuin Koningin Julianatoren-stijl.",
+        {
+          "v": "Standaard",
+          "p": 29.5,
+          "t": "flexibel",
+          "url": "https://dagtickets.artis.nl/"
+        },
+        {
+          "v": "ARTIS online (regulier)",
+          "p": 26.5,
+          "t": "datumticket",
+          "url": "https://dagtickets.artis.nl/"
+        }
+      ]
+    },
+    {
+      "id": "ouwehands",
+      "naam": "Ouwehands Dierenpark",
+      "cat": "dierentuin",
+      "plaats": "Rhenen",
+      "provincie": "Utrecht",
+      "rating": 4.7,
+      "kassa": 30.5,
+      "verified": "2026-05-26",
+      "bron": "ouwehand.nl",
+      "omschrijving": "Dierenpark bekend van de pandaverblijven en speeltuin. Met de dinsdagdeal en Early Bird boek je het voordeligst.",
       "offers": [
-        { "v": "Kassa (park)", "p": 29.50, "t": "flexibel", "url": "#" },
-        { "v": "Tiqets", "p": 26.95, "t": "datumticket", "url": "#" },
-        { "v": "Tripper", "p": 25.95, "t": "datumticket", "url": "#" }
-      ] },
-    { "id": "beekse-bergen", "naam": "Safaripark Beekse Bergen", "cat": "dierentuin", "plaats": "Hilvarenbeek", "provincie": "Noord-Brabant", "rating": 4.5, "kassa": 34.00,
-      "omschrijving": "Het grootste safaripark van de Benelux, te bezoeken per auto, boot, bus of te voet.",
+        {
+          "v": "Zonder datum",
+          "p": 30.5,
+          "t": "flexibel",
+          "url": "https://www.ouwehand.nl/nl/bestel-tickets"
+        },
+        {
+          "v": "Ouwehand.nl datumticket",
+          "p": 27.5,
+          "t": "datumticket",
+          "url": "https://www.ouwehand.nl/nl/bestel-tickets"
+        },
+        {
+          "v": "Dinsdagdeal",
+          "p": 24.0,
+          "t": "actie",
+          "url": "https://www.ouwehand.nl/nl/bestel-tickets"
+        }
+      ]
+    },
+    {
+      "id": "beekse-bergen",
+      "naam": "Safaripark Beekse Bergen",
+      "cat": "dierentuin",
+      "plaats": "Hilvarenbeek",
+      "provincie": "Noord-Brabant",
+      "rating": 4.5,
+      "kassa": 32.5,
+      "verified": "2026-05-26",
+      "bron": "beeksebergen.nl",
+      "omschrijving": "Het grootste safaripark van de Benelux, te bezoeken per auto, boot, bus of te voet. Werkt met variabele entreeprijzen per dag.",
       "offers": [
-        { "v": "Kassa (park)", "p": 34.00, "t": "flexibel", "url": "#" },
-        { "v": "Online park", "p": 27.50, "t": "datumticket", "url": "#" },
-        { "v": "Tiqets", "p": 28.50, "t": "datumticket", "url": "#" }
-      ] },
-    { "id": "dolfinarium", "naam": "Dolfinarium", "cat": "dierentuin", "plaats": "Harderwijk", "provincie": "Gelderland", "rating": 4.2, "kassa": 34.50,
-      "omschrijving": "Grootste zeezoogdierenpark van Europa met shows en interactieve verblijven.",
+        {
+          "v": "Aan de poort",
+          "p": 32.5,
+          "t": "flexibel",
+          "url": "https://www.beeksebergen.nl/korting"
+        },
+        {
+          "v": "Beeksebergen.nl online",
+          "p": 28.5,
+          "t": "datumticket",
+          "url": "https://www.beeksebergen.nl/korting"
+        },
+        {
+          "v": "Tripper actie",
+          "p": 21.35,
+          "t": "actie",
+          "url": "https://www.tripper.nl/deal/entree-ticket-safaripark-beekse-bergen-korting"
+        }
+      ]
+    },
+    {
+      "id": "dolfinarium",
+      "naam": "Dolfinarium",
+      "cat": "dierentuin",
+      "plaats": "Harderwijk",
+      "provincie": "Gelderland",
+      "rating": 4.2,
+      "kassa": 29.0,
+      "verified": "2026-05-26",
+      "bron": "dolfinarium.nl",
+      "omschrijving": "Grootste zeezoogdierenpark van Europa met shows en interactieve verblijven. Online tickets zijn altijd voordeliger dan aan de kassa.",
       "offers": [
-        { "v": "Kassa (park)", "p": 34.50, "t": "flexibel", "url": "#" },
-        { "v": "Tiqets", "p": 29.99, "t": "datumticket", "url": "#" },
-        { "v": "Vroegboek", "p": 27.50, "t": "vroegboek", "url": "#" }
-      ] },
-    { "id": "tikibad", "naam": "Tikibad (Duinrell)", "cat": "waterpark", "plaats": "Wassenaar", "provincie": "Zuid-Holland", "rating": 4.4, "kassa": 28.50,
-      "omschrijving": "Tropisch zwemparadijs met een van de grootste glijbaancollecties van Europa.",
+        {
+          "v": "Aan de poort",
+          "p": 29.0,
+          "t": "flexibel",
+          "url": "https://tickets.dolfinarium.nl/"
+        },
+        {
+          "v": "Dolfinarium.nl online",
+          "p": 19.0,
+          "t": "datumticket",
+          "url": "https://tickets.dolfinarium.nl/"
+        },
+        {
+          "v": "Tripper actie",
+          "p": 18.5,
+          "t": "actie",
+          "url": "https://www.tripper.nl/deal/entree-ticket-dolfinarium-harderwijk-korting"
+        }
+      ]
+    },
+    {
+      "id": "tikibad",
+      "naam": "Tikibad (Duinrell)",
+      "cat": "waterpark",
+      "plaats": "Wassenaar",
+      "provincie": "Zuid-Holland",
+      "rating": 4.4,
+      "kassa": 20.0,
+      "verified": "2026-05-26",
+      "bron": "duinrell.nl",
+      "omschrijving": "Tropisch zwemparadijs met een van de grootste glijbaancollecties van Europa. Reserveren met tijdslot is verplicht; online bespaar je tot 15%.",
       "offers": [
-        { "v": "Kassa (park)", "p": 28.50, "t": "flexibel", "url": "#" },
-        { "v": "Online park", "p": 24.00, "t": "datumticket", "url": "#" }
-      ] },
-    { "id": "plopsa-coevorden", "naam": "Plopsa Indoor Coevorden", "cat": "indoor", "plaats": "Coevorden", "provincie": "Drenthe", "rating": 4.1, "kassa": 25.50,
-      "omschrijving": "Overdekt pretpark met attracties rond bekende kinderfiguren — ideaal bij slecht weer.",
+        {
+          "v": "Aan de poort (2 uur)",
+          "p": 20.0,
+          "t": "flexibel",
+          "url": "https://tickets.duinrell.com/"
+        },
+        {
+          "v": "Duinrell.com online",
+          "p": 17.0,
+          "t": "datumticket",
+          "url": "https://tickets.duinrell.com/"
+        }
+      ]
+    },
+    {
+      "id": "plopsa-coevorden",
+      "naam": "Plopsa Indoor Coevorden",
+      "cat": "indoor",
+      "plaats": "Coevorden",
+      "provincie": "Drenthe",
+      "rating": 4.1,
+      "kassa": 27.5,
+      "verified": "2026-05-26",
+      "bron": "plopsa.com",
+      "omschrijving": "Overdekt pretpark met attracties rond bekende kinderfiguren — ideaal bij slecht weer. Datumtickets zijn online flink voordeliger.",
       "offers": [
-        { "v": "Kassa (park)", "p": 25.50, "t": "flexibel", "url": "#" },
-        { "v": "Online park", "p": 21.50, "t": "datumticket", "url": "#" },
-        { "v": "Tiqets", "p": 22.00, "t": "datumticket", "url": "#" }
-      ] },
-    { "id": "monkey-town", "naam": "Monkey Town", "cat": "indoor", "plaats": "Meerdere locaties", "provincie": "Landelijk", "rating": 3.9, "kassa": 12.50,
-      "omschrijving": "Landelijke keten van indoor-speelparadijzen voor jonge kinderen.",
+        {
+          "v": "Zonder datum",
+          "p": 27.5,
+          "t": "flexibel",
+          "url": "https://www.plopsa.com/nl/plopsa-indoor-coevorden/tickets"
+        },
+        {
+          "v": "Plopsa.com datumticket",
+          "p": 18.0,
+          "t": "datumticket",
+          "url": "https://www.plopsa.com/nl/plopsa-indoor-coevorden/tickets"
+        },
+        {
+          "v": "Tripper actie",
+          "p": 13.5,
+          "t": "actie",
+          "url": "https://www.tripper.nl/deal/ticket-plopsa-indoor-coevorden-korting"
+        }
+      ]
+    },
+    {
+      "id": "monkey-town",
+      "naam": "Monkey Town",
+      "cat": "indoor",
+      "plaats": "Meerdere locaties",
+      "provincie": "Landelijk",
+      "rating": 3.9,
+      "kassa": 10.95,
+      "verified": "2026-05-26",
+      "bron": "monkeytown.eu",
+      "omschrijving": "Landelijke keten van indoor-speelparadijzen voor jonge kinderen. Begeleiders gratis; prijs per kind, tarieven verschillen per vestiging.",
       "offers": [
-        { "v": "Kassa (park)", "p": 12.50, "t": "flexibel", "url": "#" },
-        { "v": "Online", "p": 10.95, "t": "datumticket", "url": "#" }
-      ] }
+        {
+          "v": "Entree per kind",
+          "p": 10.95,
+          "t": "flexibel",
+          "url": "https://monkeytown.eu/nl/tarieven"
+        }
+      ]
+    }
   ]
 }
