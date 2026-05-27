@@ -1,0 +1,28 @@
+TicketsWijzer — zo werk je de site bij (vanaf nu)
+==================================================
+
+Alles wat je bewerkt staat in deze 'gen' map. De rest wordt automatisch
+gegenereerd.
+
+DE SITE BIJWERKEN (3 stappen):
+1) Bewerk de data:
+   - gen\attractions.csv   -> één regel per attractie (naam, plaats, prijs, ...)
+   - gen\offers.csv        -> één regel per prijs (gekoppeld via 'id')
+   - gen\site.json         -> categorieën / site-info
+   Een gids toevoegen? Zet de tekst als .html in ..\data\hubs\ en voeg een
+   regel toe aan gen\hubs.json.
+
+2) Bouw de site (open een terminal in de 'ticketswijzer' map en typ):
+       python gen\build_all.py
+   Dit maakt/ververst de map  ..\site  met alle pagina's, sitemap en robots.
+
+3) Commit en push met GitHub Desktop. Cloudflare zet de nieuwe site
+   automatisch live.
+
+LET OP:
+- Bewerk NIET de map 'site' met de hand — die wordt elke build overschreven.
+- De oude bestanden in de hoofdmap (build.py, sitegen_core.py, ingest.py en de
+  oude 'data' map) zijn vervangen door deze 'gen'-pijplijn en mag je negeren of
+  later opruimen. De gids-teksten in data\hubs\ blijven wél in gebruik.
+- Throwaway mappen die je kunt verwijderen: site_new, site_test, public*, dist,
+  _qa, en losse oude scripts (generate.py, buildsite.py, engine_qa.py, ...).
