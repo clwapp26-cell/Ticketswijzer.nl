@@ -1,0 +1,6 @@
+[
+  { "slug": "over-ons", "title": "Over TicketsWijzer — onafhankelijk tickets vergelijken", "description": "Over TicketsWijzer: onafhankelijke vergelijkingssite voor tickets van attractieparken, dierentuinen, waterparken en musea in Nederland.", "h1": "Over TicketsWijzer", "body_file": "over-ons.html" },
+  { "slug": "contact", "title": "Contact | TicketsWijzer", "description": "Neem contact op met TicketsWijzer via info@ticketswijzer.nl — voor vragen, feedback of als park/aanbieder.", "h1": "Contact", "body_file": "contact.html" },
+  { "slug": "privacybeleid", "title": "Privacybeleid | TicketsWijzer", "description": "Hoe TicketsWijzer omgaat met je persoonsgegevens, conform de AVG.", "h1": "Privacybeleid", "body_file": "privacybeleid.html" },
+  { "slug": "cookiebeleid", "title": "Cookiebeleid | TicketsWijzer", "description": "Welke cookies TicketsWijzer gebruikt, waaronder affiliate-cookies, en hoe je ze beheert.", "h1": "Cookiebeleid", "body_file": "cookiebeleid.html" }
+]
