@@ -1,0 +1,822 @@
+{
+  "efteling": {
+    "openingstijden": "De Efteling is het hele jaar open. In het hoogseizoen (juli, augustus, herfst- en kerstvakantie) van 10:00 tot 20:00 of 21:00 uur tijdens de Winter Efteling. In het laagseizoen meestal 10:00 tot 18:00 uur. Op enkele dagen rond Kerst en oudejaarsdag is het park gesloten.",
+    "transport_ov": "Vanaf NS-station Tilburg of 's-Hertogenbosch rijdt bus 300 (Bravo Direct) in circa 20-25 minuten naar de hoofdingang van het park. De bussen rijden meerdere keren per uur, ook 's avonds. Vanaf station Den Bosch is dit doorgaans de snelste verbinding.",
+    "transport_auto": "De Efteling ligt aan de A59 (afslag 35 Kaatsheuvel). Met de auto vanuit Utrecht ben je er in ongeveer een uur, vanaf Amsterdam in 1 uur en 15 minuten. Parkeren kost €15 per dag bij regulier parkeren; verblijfsgasten in Efteling Hotel of de Bosrijk-vakantieparken parkeren gratis.",
+    "beste_tijd": "Het voordeligst en het rustigst is doordeweeks buiten de schoolvakanties, vooral dinsdag of woensdag in maart, april (na de meivakantie), september en oktober. Vermijd weekends in de zomervakantie en de kerstvakantie als je drukte en hoge dagprijzen wilt ontlopen. Vroeg boeken (7+ dagen) levert vaak €5-€10 korting op.",
+    "tips": [
+      "Boek je ticket minimaal 7 dagen van tevoren via efteling.com voor de laagste dynamische prijs.",
+      "Download de Efteling-app: live wachttijden en plattegrond besparen je makkelijk 1-2 uur in de rij per dag.",
+      "Begin je dag bij de attracties achterin het park (Baron 1898, Python, Joris en de Draak) — de meeste bezoekers gaan eerst naar Symbolica en Sprookjesbos vooraan.",
+      "Met een 2-dagenticket betaal je vaak slechts ~30% meer dan een dagticket, terwijl je het park veel rustiger kunt verkennen.",
+      "Een jaarabonnement is al rendabel vanaf je derde bezoek — interessant voor gezinnen die meerdere keren per jaar komen."
+    ],
+    "faq": [
+      {"q": "Kan ik mijn Efteling-ticket nog ruilen of annuleren?", "a": "Een regulier datumticket is niet ruilbaar of restitueerbaar. De Efteling biedt tegen meerprijs een Flexibel Ticket aan dat je tot 24 uur voor de bezoekdatum kunt wijzigen of annuleren."},
+      {"q": "Zijn er kortingen voor kinderen of senioren?", "a": "Kinderen vanaf 4 jaar betalen hetzelfde tarief als volwassenen. Kinderen tot en met 3 jaar mogen gratis mee. Er zijn geen aparte seniorenkortingen meer; de prijs is gelijk voor alle leeftijden vanaf 4 jaar."},
+      {"q": "Hoeveel kost parkeren bij de Efteling?", "a": "Regulier parkeren kost €15 per dag op P1. Overnachten in Efteling Hotel, Loonsche Land of Bosrijk? Dan is parkeren bij je verblijf inbegrepen. Tip: spreid de kosten door met meer mensen samen te reizen."},
+      {"q": "Mag ik eigen eten en drinken meenemen?", "a": "Ja, je mag een eigen lunchpakket meenemen in het park. Op het terrein zijn ook tientallen horecagelegenheden, van snackbars tot themarestaurants, met steeds meer vegetarische en glutenvrije opties."},
+      {"q": "Wat is de goedkoopste manier om Efteling te bezoeken?", "a": "Combineer een Early Bird-ticket (7+ dagen vooruit boeken) met een rustige doordeweekse dag buiten schoolvakanties, bij voorkeur dinsdag of woensdag in het laagseizoen. Op die manier kun je tot €15 per persoon besparen ten opzichte van de kassaprijs."}
+    ]
+  },
+  "walibi": {
+    "openingstijden": "Walibi Holland is van eind maart tot eind oktober open en in december tijdens Fright Nights en de wintervakantie. Reguliere dagen meestal 10:00 tot 18:00 uur, tijdens Fright Nights (zaterdagavonden in oktober) tot 23:00 uur. Het park is in januari en februari gesloten.",
+    "transport_ov": "Vanaf NS-station Lelystad Centrum rijdt bus 158 rechtstreeks naar Walibi in ongeveer 20 minuten. Op drukke dagen rijdt deze bus elke 15 minuten. Vanuit Amsterdam reis je via Almere of Lelystad — totale reistijd circa 1 uur en 20 minuten.",
+    "transport_auto": "Het park ligt aan de N305 in Biddinghuizen, ruim 50 km van Amsterdam. Vanuit Utrecht ben je er via de A28 in iets meer dan een uur. Parkeren kost €12,50 per dag (online vooruit boeken vaak goedkoper). Er is voldoende ruimte; vroeg arriveren scheelt loopafstand naar de ingang.",
+    "beste_tijd": "Eind september en de eerste weken van oktober zijn ideaal: prima weer, rustige doordeweekse dagen en de Halloween-decoratie maakt het park extra sfeervol. Wil je Fright Nights bezoeken? Boek dan ruim vooruit, want zaterdagavonden zijn vaak uitverkocht. De zomervakantie en meivakantie zijn het drukst.",
+    "tips": [
+      "Online boeken bespaart je al snel 25-40% ten opzichte van de kassaprijs van €46.",
+      "Wil je in YouTube-coaster Untamed zonder lange wachtrij? Loop er bij opening direct naartoe — daar zit de hoogste piekdrukte.",
+      "Een Fast Lane-ticket loont vooral op zaterdagen in juli en augustus, niet op rustige doordeweekse herfstdagen.",
+      "Combineer je ticket met een overnachting in de Walibi Village voor een tweedaags bezoek aan duidelijk lagere stuksprijs.",
+      "Fright Nights heeft een aparte leeftijdsgrens (15+) en is niet geschikt voor kinderen — boek voor jonge kinderen liever de Halloween-dag overdag."
+    ],
+    "faq": [
+      {"q": "Wat is de minimumleeftijd voor de grote achtbanen in Walibi?", "a": "De minimumlengte voor Untamed, Goliath, Lost Gravity en Xpress: Platform 13 is 1,40 meter; voor Speed of Sound 1,30 meter. Kinderen vanaf circa 8 jaar mogen vaak al mee in de meeste achtbanen, mits ze lang genoeg zijn."},
+      {"q": "Is Walibi geschikt voor jonge kinderen?", "a": "Ja, in Walibi Play Land zijn er attracties speciaal voor kinderen tot circa 8 jaar, zoals El Rio Grande, La Via Volta en het kinderkermisgebied Mr. Bubb's Funhouse. Voor jonge gezinnen is een doordeweekse dag het prettigst."},
+      {"q": "Mag ik eigen eten meenemen naar Walibi?", "a": "Ja, je mag een eigen lunchpakket meenemen. Glaswerk en alcohol zijn niet toegestaan. In het park zijn picknickplekken; daarnaast vind je er fastfood- en themarestaurants verspreid over de werelden."},
+      {"q": "Wat is het verschil tussen een Walibi-dagticket en Fright Nights?", "a": "Een regulier dagticket geeft toegang overdag (10:00-18:00) op een gekozen datum. Fright Nights zijn aparte avondevenementen (zaterdagen in oktober, 18:00-23:00) met scare zones, dolen door spookhuizen en achtbanen in het donker — een ander ticket en niet geschikt voor kinderen onder 15."},
+      {"q": "Hoe goedkoop kan ik aan een Walibi-ticket komen?", "a": "Reseller-deals via Tripper of Tickoo zakken regelmatig richting €25-€28 (laagseizoen) of €30-€33 (hoogseizoen). Vergelijk altijd voor je bezoekdatum, want elke aanbieder heeft eigen actiedagen."}
+    ]
+  },
+  "toverland": {
+    "openingstijden": "Toverland is van begin april tot begin november geopend en daarnaast in de winterperiode (Winter Toverland, eind november tot begin januari). Openingstijden meestal 10:00 tot 18:00 uur, in de zomer tot 19:00 of 21:00 uur op feestdagen. Het park is in januari, februari en maart gesloten voor onderhoud.",
+    "transport_ov": "Vanaf station Horst-Sevenum rijdt bus 60 of een treintaxi richting Toverland in ongeveer 10-15 minuten. Op drukke dagen pendelt er een gratis shuttle. Vanuit Eindhoven of Venlo is het ongeveer een uur reizen inclusief overstap.",
+    "transport_auto": "Toverland ligt aan de A67 (afslag 38 Helenaveen of 39 Sevenum), nabij de grens met Duitsland. Vanuit Eindhoven ben je er in 35 minuten, vanuit Maastricht in 50 minuten. Parkeren is gratis — een welkome uitzondering onder de Nederlandse pretparken.",
+    "beste_tijd": "Mei en juni zijn ideaal: aangename temperaturen, alle outdoor-attracties open en op doordeweekse dagen meestal vrij rustig. Vermijd de zomervakantie en de meivakantie als je drukte wilt ontlopen. Vroegboek-Early Birds (minimaal 7 dagen vooruit) zijn vrijwel altijd het voordeligst.",
+    "tips": [
+      "Boek minimaal 7 dagen vooruit voor de Early Bird-korting — vaak €10-€12 onder de kassaprijs.",
+      "Pak Fenix (vliegende achtbaan) en Troy meteen na opening; beide trekken later op de dag de langste rijen.",
+      "Parkeren is gratis — handig voor gezinnen met meer auto's, maar wees vroeg voor een plek dichtbij de ingang.",
+      "De themazone Avalon (met Fenix) en Magische Vallei wisselen elkaar mooi af; combineer ze om wachtrijen te spreiden.",
+      "Toverland biedt een aparte avondticket-actie tijdens Halloween — interessant voor wie maar een paar uur wil komen."
+    ],
+    "faq": [
+      {"q": "Vanaf welke leeftijd is Toverland geschikt?", "a": "Toverland heeft een breed aanbod en is geschikt vanaf circa 4 jaar. Veel familieattracties zijn al toegankelijk vanaf 1 meter; de grote achtbanen (Fenix, Troy) vereisen minimaal 1,30 of 1,40 meter."},
+      {"q": "Is parkeren bij Toverland echt gratis?", "a": "Ja, het parkeerterrein van Toverland is gratis, ook in het hoogseizoen. Dit is een van de redenen waarom het park bij gezinnen populair is — bij andere parken ben je al snel €12-€15 kwijt aan alleen parkeren."},
+      {"q": "Hoe lang heb je nodig voor een bezoek aan Toverland?", "a": "Voor een volledig bezoek met de meeste achtbanen en familieattracties moet je een hele dag rekenen (ongeveer 8 uur). Op rustige dagen lukt het soms in 5-6 uur; in het hoogseizoen of de vakantie heb je echt een volle dag nodig."},
+      {"q": "Wat is het verschil tussen Toverland en Efteling?", "a": "Toverland is kleiner en moderner, met meer nadruk op achtbanen en thrills. Efteling is groter, klassieker, met meer sprookjessfeer en familie-entertainment. Voor tieners en thrillseekers is Toverland vaak een betere match; voor jonge gezinnen wordt Efteling vaak verkozen."},
+      {"q": "Werkt Toverland met variabele prijzen?", "a": "Ja, ook Toverland hanteert dynamische prijzen. Op rustige doordeweekse dagen in het laagseizoen ligt de prijs duidelijk lager dan tijdens schoolvakanties en weekends. Boek minimaal een week vooruit voor het beste tarief."}
+    ]
+  },
+  "duinrell": {
+    "openingstijden": "Het attractiepark van Duinrell is van eind maart tot eind oktober geopend, doorgaans 10:00 tot 17:00 of 18:00 uur. Het Tikibad is jaarrond open, ook 's avonds en in de winter. Het attractiepark is in de winter gesloten; verblijf op het vakantiepark is dan nog wel mogelijk.",
+    "transport_ov": "Vanaf station Den Haag Centraal of station Wassenaar Kasteelpark rijdt bus 43 of 90 in 15-20 minuten naar Duinrell. Het park ligt aan de rand van Wassenaar, op loopafstand van enkele bushaltes. Vanuit Amsterdam reken op ruim 1 uur reizen.",
+    "transport_auto": "Duinrell ligt direct aan de N44 tussen Den Haag en Leiden, ongeveer 15 minuten vanaf Den Haag Centrum en 45 minuten vanaf Amsterdam. Parkeren op het park kost €15 per dag voor daggasten; verblijfsgasten parkeren gratis.",
+    "beste_tijd": "Het attractiepark is doordeweeks in mei, juni en september het rustigst en goedkoopst. Het Tikibad is jaarrond populair, maar 's avonds en op doordeweekse winterdagen het rustigst. Combineer een dagje attractiepark + Tikibad in juni voor de beste prijs-kwaliteitverhouding.",
+    "tips": [
+      "Het attractiepark Duinrell heeft veel gratis attracties — een ticket geeft toegang tot het hele park inclusief speeltuinen.",
+      "Combinaties van attractiepark + Tikibad zijn voordeliger dan losse tickets; check de combideal voor jouw bezoekdatum.",
+      "Reserveren voor Tikibad is verplicht, ook met combiticket — boek je tijdslot ruim vooruit, vooral in vakanties.",
+      "Verblijfsgasten van Duinrell krijgen vaak gratis of sterk gereduceerde toegang tot beide; check de overnachtingsdeals.",
+      "Het familiekarakter (jonge kinderen, jonge tieners) is sterker dan bij Walibi of Efteling — minder grote thrills, meer rustige familieplezier."
+    ],
+    "faq": [
+      {"q": "Wat is het verschil tussen Duinrell en Tikibad?", "a": "Duinrell is het attractie- en vakantiepark; Tikibad is het tropische zwemparadijs op datzelfde terrein. Je kunt elk apart bezoeken of een combiticket nemen. Het attractiepark is seizoenmatig; Tikibad is jaarrond open."},
+      {"q": "Is reserveren bij Tikibad verplicht?", "a": "Ja, voor Tikibad moet je een tijdslot reserveren, ook met een geldig dagticket of combiticket. Sloten zitten in de schoolvakanties snel vol; reserveer minimaal enkele dagen vooruit."},
+      {"q": "Is Duinrell geschikt voor kleine kinderen?", "a": "Zeker — Duinrell heeft veel attracties voor jonge kinderen (vanaf circa 3 jaar) en is bekend om zijn enorme buitenspeeltuinen en familievriendelijke karakter. Voor thrillseekers en tieners is het aanbod beperkter dan bij Walibi of Toverland."},
+      {"q": "Hoeveel kost een Duinrell-ticket aan de kassa?", "a": "Een dagticket voor het attractiepark kost aan de kassa €26 (vanaf 2 jaar). Online is het ticket vaak iets goedkoper, vooral met combideals via Duinrell zelf of via reseller-acties."},
+      {"q": "Moet ik mijn Duinrell-ticket online kopen?", "a": "Tickets zijn uitsluitend online te koop op duinrell.nl — er is geen losse kassaverkoop meer. Dit geldt voor zowel het attractiepark als Tikibad, met datumtickets en variabele prijzen."}
+    ]
+  },
+  "hellendoorn": {
+    "openingstijden": "Avonturenpark Hellendoorn is geopend van begin april tot eind oktober, meestal 10:00 tot 17:00 of 18:00 uur. Tijdens schoolvakanties en speciale evenementen soms langer geopend. Het park is gesloten in de wintermaanden november tot en met maart.",
+    "transport_ov": "Vanaf station Nijverdal rijdt buurtbus 503 in 15-20 minuten naar het park. Vanaf Almelo en Deventer is het via Nijverdal te bereiken in ongeveer 30-45 minuten reizen. Op zomerdagen rijdt er soms een extra zomerlijn vanaf nabijgelegen NS-stations.",
+    "transport_auto": "Het park ligt aan de N347 en is bereikbaar via de A1 (afslag Holten of Nijverdal) of via Zwolle. Vanuit Zwolle ben je er in 30 minuten, vanuit Apeldoorn in 45 minuten. Parkeren is gratis — een groot voordeel boven veel andere parken.",
+    "beste_tijd": "Mei en juni zijn doordeweeks rustig en gunstig geprijsd. De zomervakantie is duidelijk drukker en duurder. September biedt vaak nog mooi weer en lage prijzen. Vroegboeken loont — vaak 20-30% korting op het kassatarief.",
+    "tips": [
+      "Parkeren is gratis bij Avonturenpark Hellendoorn — een fijne kostenbesparing voor gezinnen.",
+      "Eén prijs voor iedereen vanaf 2 jaar; geen verschillende tarieven voor kinderen of volwassenen.",
+      "De combinatie achtbanen + waterattracties + bos maakt het uniek; neem droge kleren mee voor de waterglijbanen.",
+      "Het park is relatief klein — een hele dag is comfortabel, soms zelfs een halve dag voor wie minder doet.",
+      "Tickets via Tripper of Tickoo zijn doorgaans 25-35% goedkoper dan aan de kassa."
+    ],
+    "faq": [
+      {"q": "Vanaf welke leeftijd is Avonturenpark Hellendoorn geschikt?", "a": "Het park is geschikt voor gezinnen met kinderen vanaf 2 jaar. Veel kindvriendelijke attracties starten vanaf 90-100 cm; de grotere achtbanen (Spinrace, RioGrande) hebben hogere lengtegrenzen."},
+      {"q": "Mag ik mijn hond meenemen?", "a": "Honden zijn helaas niet toegestaan in Avonturenpark Hellendoorn, met uitzondering van hulp- en assistentiehonden."},
+      {"q": "Hoe lang duurt een bezoek aan het park?", "a": "Een complete dag is comfortabel met alle attracties; voor jonge gezinnen volstaat vaak een halve dag (4-5 uur). Het park is overzichtelijk en goed te combineren met een omgevingsbezoek."},
+      {"q": "Heeft Avonturenpark Hellendoorn dynamische prijzen?", "a": "Ja, ook Hellendoorn werkt met variabele prijzen. Op doordeweekse dagen in mei, juni en september zijn de tickets vaak het voordeligst. In de zomervakantie en weekends loopt de prijs op richting de kassaprijs."},
+      {"q": "Is er een hoteloptie bij het park?", "a": "Avonturenpark Hellendoorn heeft geen eigen hotel, maar werkt samen met campings en B&B's in de omgeving. Voor een tweedaags bezoek is dit een aantrekkelijke optie tijdens schoolvakanties."}
+    ]
+  },
+  "drievliet": {
+    "openingstijden": "Familiepark Drievliet is geopend van april tot eind oktober en in de kerstvakantie (Winterdrievliet), meestal 10:00 tot 17:00 of 18:00 uur. In juli en augustus soms langer geopend. Het park is gesloten in januari, februari en maart.",
+    "transport_ov": "Vanaf NS-station Den Haag HS of Den Haag Mariahoeve rijdt buslijn 23 of tram 19 in 20-25 minuten naar Drievliet. Het park is goed bereikbaar met OV vanuit alle steden in de Randstad.",
+    "transport_auto": "Drievliet ligt direct aan de A4 (afslag Den Haag-Zuid) in Den Haag. Vanuit Rotterdam, Den Haag of Leiden ben je er in 15-25 minuten. Parkeren kost €5,50 per dag — duidelijk goedkoper dan bij grotere pretparken in de regio.",
+    "beste_tijd": "Doordeweeks in mei, juni en september is het park het rustigst en het voordeligst. De zomervakantie en de kerstvakantie zijn populairder en duurder. Drievliet is compact en zelden echt overlopen, dus zelfs in piekperiodes is het comfortabel te bezoeken.",
+    "tips": [
+      "Drievliet is compact; voor jonge gezinnen is een halve tot driekwart dag vaak voldoende.",
+      "Parkeren is met €5,50 relatief goedkoop — combineer met een ticketdeal voor een betaalbaar dagje uit.",
+      "Het is hét pretpark voor jonge kinderen in de Randstad — voor thrillseekers is het aanbod beperkt.",
+      "Online tickets via drievliet.nl zijn meestal 10-20% goedkoper dan de kassaprijs van €33,50.",
+      "Tijdens Winterdrievliet (eind december) hangt het park vol kerstverlichting — een unieke, gezellige variant."
+    ],
+    "faq": [
+      {"q": "Vanaf welke leeftijd is Familiepark Drievliet leuk?", "a": "Drievliet is ideaal voor kinderen tussen circa 2 en 10 jaar. Er zijn veel kleinere attracties voor peuters en jonge kinderen, plus enkele middelgrote achtbanen (Twistrix, Formule X) voor oudere kinderen."},
+      {"q": "Hoe ver ligt Drievliet van het centrum van Den Haag?", "a": "Drievliet ligt aan de zuidrand van Den Haag, ongeveer 15 minuten met de auto van het centrum. Met OV ben je er in ongeveer 25 minuten vanaf Den Haag Centraal."},
+      {"q": "Is Drievliet leuk voor tieners?", "a": "Voor jonge tieners (10-13 jaar) zijn er enkele leuke achtbanen zoals Formule X en Twistrix. Voor oudere tieners die echte thrills zoeken zijn Walibi of Toverland duidelijk beter geschikt."},
+      {"q": "Mag ik eigen eten meenemen?", "a": "Ja, je mag een eigen lunchpakket meebrengen. Er zijn ook picknickplekken in het park. Voor een snack zijn er meerdere snackbars en lunchgelegenheden verspreid over het park."},
+      {"q": "Werkt Drievliet ook met dynamische prijzen?", "a": "Ja, ook Drievliet hanteert variabele prijzen. Op rustige doordeweekse dagen zijn de tickets goedkoper dan op weekends in de zomervakantie. Reseller-deals kunnen extra korting bieden."}
+    ]
+  },
+  "slagharen": {
+    "openingstijden": "Attractiepark Slagharen is van eind maart tot eind oktober open en in december tijdens Winter Wonderland. Reguliere dagen 10:00 tot 17:00 of 18:00 uur, in de zomer soms tot 19:00 uur. Het park is doorgaans gesloten in januari, februari en maart.",
+    "transport_ov": "Slagharen ligt afgelegen; vanaf NS-station Hardenberg rijdt buslijn 79 of een treintaxi in ongeveer 20-30 minuten naar het park. Vanaf Zwolle reken op ruim een uur reizen inclusief overstap.",
+    "transport_auto": "Het park ligt aan de N377 tussen Zwolle en Hardenberg, ruim 30 km ten noordoosten van Zwolle. Vanaf Amsterdam ben je er in ongeveer 1 uur en 45 minuten, vanaf Groningen in ongeveer 1 uur en 30 minuten. Parkeren kost €12 per dag.",
+    "beste_tijd": "Mei en september zijn doordeweeks ideaal: aangename temperaturen, alle attracties open en relatief lage prijzen. De zomervakantie en Halloween-zaterdagen zijn duidelijk drukker en duurder. Winter Wonderland in december is een leuke aparte ervaring met andere openingstijden en prijzen.",
+    "tips": [
+      "Slagharen is van origine een ponypark — er zijn nog steeds pony- en paardenshows, leuk voor jonge kinderen.",
+      "Een combinatie van dagticket + overnachting in een vakantiebungalow op het park is vaak voordelig.",
+      "Verblijfsgasten van Slagharen krijgen vaak meerdere dagen toegang tot het park inbegrepen.",
+      "De Goudkoorts-achtbaan is in 2019 vernieuwd en het neusje van de zalm in Slagharen — pak die vroeg op de dag.",
+      "Tickets via Tripper of Tickoo zijn doorgaans 25-35% onder de kassaprijs van €36."
+    ],
+    "faq": [
+      {"q": "Vanaf welke leeftijd is Slagharen geschikt?", "a": "Slagharen is een echt familiepark, geschikt vanaf circa 2 jaar. Veel attracties zijn vanaf 90-100 cm toegankelijk; de grootste achtbaan Goudkoorts vereist minimaal 1,30 meter."},
+      {"q": "Wat is Winter Wonderland Slagharen?", "a": "Winter Wonderland is het winterevenement van Slagharen in december, met ijsattracties, een grote kerstmarkt, vuurshows en sommige reguliere attracties geopend. Apart ticket vereist; sfeer is veel rustiger dan de zomeropening."},
+      {"q": "Heeft Slagharen overnachtingsmogelijkheden?", "a": "Ja, Slagharen heeft een groot vakantiepark met bungalows, lodges en hotelkamers direct naast het attractiepark. Combinatiepakketten (verblijf + meerdaagse toegang) zijn meestal voordeliger dan losse boekingen."},
+      {"q": "Is Slagharen geschikt voor tieners?", "a": "Voor jonge tieners (10-14 jaar) zijn er meerdere leuke achtbanen. Voor oudere tieners die maximale thrills zoeken is Walibi geschikter, maar Slagharen is een prima dag uit voor gemengde leeftijdsgroepen."},
+      {"q": "Werkt Slagharen ook met variabele prijzen?", "a": "Ja, Slagharen hanteert dynamische prijzen die per bezoekdatum verschillen. Doordeweekse dagen in het laagseizoen zijn het voordeligst. Reseller-tickets via Tripper zitten vaak vast op een vaste lagere prijs ongeacht de datum."}
+    ]
+  },
+  "julianatoren": {
+    "openingstijden": "Koningin Julianatoren is geopend van begin april tot eind oktober, doorgaans 10:00 tot 17:00 uur. In de zomervakantie soms tot 18:00 uur. Het park is gesloten in de wintermaanden.",
+    "transport_ov": "Vanaf NS-station Apeldoorn rijdt buslijn 1 of 4 in ongeveer 15-20 minuten naar het park. Apeldoorn is goed bereikbaar vanuit alle grote steden via de IC-treinen.",
+    "transport_auto": "Het park ligt aan de A50 (afslag Apeldoorn-Zuid), aan de westrand van Apeldoorn. Vanuit Utrecht ben je er in ongeveer 45 minuten, vanuit Amsterdam in 1 uur en 10 minuten. Parkeren kost €5 per dag — relatief voordelig.",
+    "beste_tijd": "Doordeweeks in mei, juni en september is het park het rustigst. De zomervakantie en de meivakantie zijn duidelijk drukker. Julianatoren is gericht op jonge kinderen, dus de drukte loopt minder hoog op dan bij thrill-georiënteerde parken — ook in piek is een bezoek aangenaam.",
+    "tips": [
+      "Julianatoren is volledig gericht op jonge kinderen (2-9 jaar) — voor wie tieners heeft, zijn andere parken beter.",
+      "Het Henkie-thema is alom aanwezig: jonge kinderen smullen ervan, oudere kinderen vinden het soms saai.",
+      "Parkeren kost slechts €5 — een prettig verschil met Efteling en Walibi.",
+      "Online tickets via julianatoren.nl zijn vrijwel altijd voordeliger dan de kassaprijs.",
+      "De combinatie met een bezoek aan het Apenheul (15 minuten verderop) maakt een tweedaagse Apeldoorn-uitje aantrekkelijk."
+    ],
+    "faq": [
+      {"q": "Voor welke leeftijd is Koningin Julianatoren bedoeld?", "a": "Het park is specifiek gericht op kinderen tussen 2 en 9 jaar. Alle attracties zijn op die leeftijdsgroep afgestemd. Voor kinderen vanaf circa 10 jaar wordt het aanbod te beperkt."},
+      {"q": "Wie is Henkie?", "a": "Henkie is de mascotte van Koningin Julianatoren — een vriendelijke jongen die in shows, attracties en het hele park terugkomt. Vooral peuters en kleuters zijn er dol op."},
+      {"q": "Hoe lang heb je nodig voor een bezoek?", "a": "Voor een volledig bezoek met de meeste attracties reken op 5-6 uur. Het park is overzichtelijk en niet te groot, dus zonder gehaast plezier."},
+      {"q": "Is er een hotel bij Julianatoren?", "a": "Julianatoren heeft geen eigen hotel, maar werkt samen met meerdere hotels in Apeldoorn. Combideals (overnachting + ticket) zijn beschikbaar; check ook hotels in de buurt van de Apenheul voor een 2-daags uitje."},
+      {"q": "Wat is het verschil tussen Julianatoren en Drievliet?", "a": "Beide zijn familieparken voor jonge kinderen, maar Julianatoren is iets ouder en kleiner. Drievliet heeft meer aanbod voor kinderen tot circa 10-11 jaar; Julianatoren stopt rond 9 jaar. Beide hebben gratis parkeren of zeer goedkoop parkeren."}
+    ]
+  },
+  "linnaeushof": {
+    "openingstijden": "Linnaeushof is geopend van eind maart tot eind oktober, doorgaans 10:00 tot 17:30 uur. In juli en augustus soms langer geopend. Het park is gesloten in de wintermaanden november tot en met maart.",
+    "transport_ov": "Vanaf NS-station Heemstede-Aerdenhout of Hillegom rijdt buslijn 50 of 90 in 15-20 minuten naar Linnaeushof. Vanuit Haarlem of Leiden is het ongeveer 30 minuten reizen.",
+    "transport_auto": "Linnaeushof ligt aan de N208 in Bennebroek, in het hart van de Bollenstreek. Vanuit Amsterdam ben je er in 30 minuten, vanuit Den Haag in 40 minuten. Parkeren kost €5 per dag.",
+    "beste_tijd": "Mei en juni zijn ideaal: aangename temperaturen, bloeiende bollenvelden in de omgeving en doordeweeks weinig drukte. De zomervakantie is duidelijk drukker. Linnaeushof is sterk weergevoelig — bij regen is het minder leuk, omdat de meeste attracties buiten zijn.",
+    "tips": [
+      "Linnaeushof is geen attractiepark maar een gigantische speeltuin — perfect voor kinderen die graag fysiek bewegen.",
+      "Voor kinderen vanaf 3 jaar is het ideaal; bij regen of harde wind valt veel weg, kies dus een mooie dag.",
+      "Begeleiders mogen voor dezelfde prijs mee — de toegangsprijs is gelijk voor iedereen vanaf 1 jaar.",
+      "Combineer met een rondje door de Bollenstreek (vooral maart-mei) of de Keukenhof voor een dag tropentlijk.",
+      "Online tickets via linnaeushof.nl zijn 10-15% goedkoper dan de kassaprijs van €18."
+    ],
+    "faq": [
+      {"q": "Wat is Linnaeushof precies?", "a": "Linnaeushof is een grote speeltuin (claim: een van de grootste van Europa) met honderden speeltoestellen, klimrekken, kabelbanen, trampolines en glijbanen. Het is geen klassiek attractiepark — er zijn geen achtbanen, alleen actieve speel-attracties."},
+      {"q": "Voor welke leeftijd is Linnaeushof geschikt?", "a": "Linnaeushof is geschikt voor kinderen vanaf circa 3 tot 12 jaar. Vooral 5-10 jaar haalt er het meeste uit. Peuters kunnen ook spelen, maar de meeste toestellen vereisen wat motorische ontwikkeling."},
+      {"q": "Is Linnaeushof leuk voor volwassenen?", "a": "Voor volwassenen is het vooral leuk om je kinderen te zien spelen. De meeste toestellen zijn echt voor kinderen — geen grote attracties voor volwassenen. Een goed boek op een terras is een prima invulling voor wachtende ouders."},
+      {"q": "Mag ik eigen eten meenemen?", "a": "Ja, je mag een eigen lunchpakket meenemen. Er zijn picknickplekken in het park en op verschillende plekken horecagelegenheden voor wie iets warms wil eten."},
+      {"q": "Hoe lang duurt een bezoek aan Linnaeushof?", "a": "Een complete dag is mogelijk maar niet noodzakelijk; veel gezinnen blijven 4-6 uur en zijn dan voldaan. Voor jongere kinderen kan een halve dag al genoeg zijn."}
+    ]
+  },
+  "burgers-zoo": {
+    "openingstijden": "Burgers' Zoo is jaarrond geopend, dagelijks van 9:00 tot 18:00 of 19:00 uur in de zomer, en van 9:00 tot 17:00 uur in de winter. Op kerstavond en oudejaarsdag eerder gesloten; eerste kerstdag en nieuwjaarsdag wel open.",
+    "transport_ov": "Vanaf NS-station Arnhem Centraal rijdt trolleybus 3 in ongeveer 15 minuten direct naar de hoofdingang. De bus rijdt vier keer per uur en is met OV-chipkaart of contactloos te betalen. Arnhem CS is in 1 uur en 5 minuten bereikbaar vanaf Amsterdam.",
+    "transport_auto": "Burgers' Zoo ligt aan de noordrand van Arnhem, aan de Antoon van Hooffplein. Vanuit Utrecht ben je er via de A12 in 45 minuten, vanuit Amsterdam in 1 uur. Parkeren kost €13,50 per dag; betaalbaar via app of bij de uitgang.",
+    "beste_tijd": "Doordeweeks in mei, juni en september zijn de minst drukke dagen. De ecodisplays (Bush, Desert, Mangrove) zijn binnen, dus ook bij slecht weer een prima keuze. Burgers' Zoo is groot — kom 's ochtends vroeg om alle ecosystemen rustig te bekijken.",
+    "tips": [
+      "Reken op een hele dag (6-8 uur): de zes ecosystemen vragen serieuze tijd om te ervaren.",
+      "Begin met Bush of Desert: deze trekken later op de dag de meeste mensen.",
+      "Combineer een bezoek met het Nederlands Openluchtmuseum en/of het Kröller-Müller Museum voor een Arnhem-weekend.",
+      "Online tickets via burgerszoo.nl zijn doorgaans iets voordeliger dan de kassaprijs van €29.",
+      "Burgers' Bush is in 1988 geopend en is daarmee een van de oudste tropische ecosystemen onder een dak in Europa — uniek concept."
+    ],
+    "faq": [
+      {"q": "Wat maakt Burgers' Zoo bijzonder?", "a": "Burgers' Zoo werkt met levensechte ecodisplays in plaats van traditionele dierenverblijven. Bush (tropisch regenwoud), Desert (woestijn), Ocean (rif), Mangrove en Rimba (Indonesische jungle) recreëren complete ecosystemen onder één dak — uniek in Europa."},
+      {"q": "Is Burgers' Zoo bij regen ook leuk?", "a": "Zeker — alle ecodisplays zijn overdekt en klimaatgecontroleerd. Bij regen is Burgers' Zoo zelfs ideaal: zo'n 70% van het bezoek doe je binnen. Buitenverblijven met onder meer leeuwen en olifanten kun je dan kort bezoeken."},
+      {"q": "Hoeveel tijd heb ik nodig voor een volledig bezoek?", "a": "Reken voor een volledig bezoek inclusief alle ecodisplays op minimaal 6 uur. Wie alles rustig wil bekijken (Mangrove rondvaren, alle dieren spotten), kan er 8 uur over doen."},
+      {"q": "Is Burgers' Zoo geschikt voor jonge kinderen?", "a": "Ja, vanaf circa 3 jaar is er voor kinderen veel te beleven. Bush en Mangrove zijn vooral spannend door de natuurlijke setting. Er is ook een grote speeltuin in het park voor de allerkleinsten."},
+      {"q": "Mag ik eigen eten meenemen?", "a": "Ja, een eigen lunchpakket is welkom in Burgers' Zoo. Er zijn picknickplekken in het park. Daarnaast zijn er verschillende restaurants, snackbars en koffiebars voor wie iets ter plaatse wil eten."}
+    ]
+  },
+  "artis": {
+    "openingstijden": "ARTIS is jaarrond open, dagelijks van 9:00 tot 17:00 uur in het winterseizoen en van 9:00 tot 18:00 of 19:00 uur in de zomer. Op zomeravonden in juli en augustus soms tot 20:00 uur (ARTIS by Night). Sterrenwacht en aquarium hebben dezelfde openingstijden.",
+    "transport_ov": "ARTIS ligt midden in Amsterdam-Oost. Tram 14 vanaf Centraal Station stopt direct bij de ingang (halte Artis), in circa 12 minuten. Ook tram 7 en buslijnen 22 en 43 stoppen vlakbij. Met de fiets ben je er vanaf Centraal in 10 minuten.",
+    "transport_auto": "Komen met de auto is afgeraden: parkeren in Amsterdam-Oost kost €7,50 per uur of meer en is schaars. Gebruik bij voorkeur P+R Zeeburg (€8 per dag inclusief OV) of het OV vanaf je bestemming. Het park heeft geen eigen parkeerplaats.",
+    "beste_tijd": "Doordeweeks 's ochtends vroeg (9:00-11:00) is het rustigst en het mooist voor dieren-spotten. Vermijd zonnige zomerdagen en weekenden in vakanties. ARTIS by Night (zomerse vrijdagavonden) is een unieke ervaring en duidelijk minder druk dan overdag.",
+    "tips": [
+      "Boek je ticket online en kies een vroeg tijdslot (9:00-10:00) — dieren zijn dan actiefst en er is geen wachtrij.",
+      "Een ARTIS Jaarkaart is al rendabel vanaf het tweede bezoek per jaar; voor Amsterdammers vaak slim.",
+      "Combineer ARTIS met een bezoek aan het Tropenmuseum (10 minuten lopen) voor een goedkope dag inclusief diepe kennis van zowel dier als cultuur.",
+      "Het aquarium (1882 gebouw) is een verborgen pareltje — niet overslaan.",
+      "Wandelpaden zijn smal: een kinderwagen kan op drukke dagen lastig manoeuvreren — kies een rustige doordeweekse ochtend."
+    ],
+    "faq": [
+      {"q": "Hoe oud is ARTIS?", "a": "ARTIS is opgericht in 1838 en daarmee de oudste dierentuin van Nederland en een van de oudste van Europa. Veel gebouwen op het terrein zijn rijksmonument, waaronder het iconische Aquariumgebouw."},
+      {"q": "Wat zit er allemaal bij een ARTIS-ticket inbegrepen?", "a": "Een ARTIS-ticket geeft toegang tot de dierentuin, het Aquarium, het Insectarium, het Planetarium (sterrenwacht) en alle (gratis) lezingen die op die dag worden gegeven. Het Micropia (microscopisch leven) heeft een eigen apart ticket."},
+      {"q": "Mag ik mijn hond meenemen in ARTIS?", "a": "Honden zijn niet toegestaan in ARTIS, met uitzondering van hulphonden en assistentiehonden. Dit beleid is er omdat de geur van honden andere dieren stress kan bezorgen."},
+      {"q": "Werkt ARTIS met variabele prijzen?", "a": "Ja, ARTIS hanteert dynamische prijzen. Doordeweekse ochtenden in het laagseizoen zijn duidelijk goedkoper dan zomerse weekends. Boek vroeg voor de beste prijs."},
+      {"q": "Is ARTIS bij regen ook de moeite waard?", "a": "Veel verblijven zijn overdekt (aquarium, vlinderkas, apenhuis, reptielenhuis), dus bij regen is een groot deel van het bezoek prima te doen. Voor een complete dierentuinervaring is droog weer prettiger, maar bij regen blijft een halve tot driekwart dag boeiend."}
+    ]
+  },
+  "ouwehands": {
+    "openingstijden": "Ouwehands Dierenpark is jaarrond geopend, dagelijks van 9:00 of 9:30 tot 18:00 uur in de zomer, en tot 17:00 uur in de winter. Op kerstavond eerder dicht; eerste kerstdag en nieuwjaarsdag wel open.",
+    "transport_ov": "Vanaf NS-station Rhenen rijdt een buurtbus of pendelbus in 5-10 minuten naar Ouwehands. Op drukke dagen is er extra pendel. Vanuit Utrecht ben je er via NS-station Rhenen in ongeveer 40 minuten reizen.",
+    "transport_auto": "Ouwehands ligt aan de Grebbeweg in Rhenen, direct aan de A12 of A15. Vanuit Utrecht ben je er in 30 minuten, vanaf Amsterdam in 1 uur. Parkeren kost €12,50 per dag.",
+    "beste_tijd": "Doordeweeks in mei, juni en september ben je het voordeligst en het rustigst. De Dinsdagdeal van Ouwehands geeft regelmatig flinke korting op tickets voor dinsdag. Vermijd de zomervakantie als je drukte en de hoogste prijzen wilt ontlopen.",
+    "tips": [
+      "Check de Dinsdagdeal — dat is structureel de goedkoopste dag van de week.",
+      "De pandaverblijven Wu Wen en Xing Ya zijn populair; ga er vroeg op de dag heen voordat de drukte begint.",
+      "RavotAapia (overdekte speeltuin met klimnetten) is ideaal voor jonge kinderen, ook bij regen.",
+      "Combineer een bezoek met de Grebbeberg en wandelroutes in de omgeving voor een prachtige natuurdag.",
+      "Online tickets via ouwehand.nl zijn met Early Bird (7+ dagen vooruit) 15-25% goedkoper dan kassa."
+    ],
+    "faq": [
+      {"q": "Heeft Ouwehands echt panda's?", "a": "Ja, Ouwehands Dierenpark is een van de weinige dierentuinen in Europa met reuzenpanda's. Wu Wen en Xing Ya kwamen in 2017 uit China en hebben in 2020 voor het eerst een welp gekregen. Het verblijf is een paradepaardje van het park."},
+      {"q": "Wat is de Dinsdagdeal van Ouwehands?", "a": "Op dinsdagen biedt Ouwehands structureel een korting op het dagticket. Het is daarmee de voordeligste dag van de week. Boek altijd online en op tijd, want populair vooral in vakanties."},
+      {"q": "Hoe lang duurt een bezoek aan Ouwehands?", "a": "Voor een complete dag reken op 6-8 uur. Ouwehands is een middelgroot park, goed te overzien in een dag, met de pandaverblijven, beverstuwen, RavotAapia en speeltuinen als hoogtepunten."},
+      {"q": "Is Ouwehands geschikt voor jonge kinderen?", "a": "Zeer geschikt vanaf circa 2 jaar. RavotAapia (binnen-speeltuin met klimnetten) en de speeltuinen maken het ook bij regen leuk voor jonge kinderen. Veel dieren zijn van dichtbij te zien."},
+      {"q": "Mag ik eigen eten meenemen?", "a": "Ja, een eigen lunchpakket meebrengen mag. Er zijn picknickplekken in het park en restaurants/snackbars voor wie ter plaatse wil eten. Met een drukke dag is zelf eten meenemen vaak comfortabeler."}
+    ]
+  },
+  "beekse-bergen": {
+    "openingstijden": "Safaripark Beekse Bergen is jaarrond geopend, doorgaans 9:30 tot 17:00 of 18:00 uur in de zomer en 10:00 tot 16:00 of 17:00 uur in de winter. Verschillende safari's hebben eigen tijden — laatste boottocht meestal 16:00 uur.",
+    "transport_ov": "Vanaf NS-station Tilburg rijdt bus 137 in ongeveer 25 minuten naar Beekse Bergen. Vanaf 's-Hertogenbosch ben je er via Tilburg in 1 uur reizen. Een eigen auto is voor Beekse Bergen veruit het meest praktisch (autosafari).",
+    "transport_auto": "Beekse Bergen ligt aan de A58 (afslag Tilburg) tussen Tilburg en Hilvarenbeek. Vanuit Eindhoven ben je er in 30 minuten, vanuit Utrecht in 1 uur. Parkeren kost €5 per dag — relatief voordelig vergeleken met andere parken.",
+    "beste_tijd": "Doordeweeks in mei, juni en september ben je het voordeligst en het rustigst. Vroeg op de dag (vanaf opening) en laat in de middag zijn de dieren actiefst — dit is uitgesproken bij safariparken. Vermijd zonnige zomermiddagen als je dieren wilt zien (ze schuilen dan).",
+    "tips": [
+      "Een autosafari (zelf rijden) is uniek en gratis bij je entreeticket — duurt circa 1 uur en geeft beelden zoals nergens anders.",
+      "De boot- en bussafari zijn extra te boeken; doe minimaal één van de twee voor andere perspectieven.",
+      "Reken op een hele dag — Beekse Bergen heeft 4 safari's plus loopsafari (te voet) plus een groot speelterrein.",
+      "Honden mogen mee in de autosafari (in de auto) — uniek in Nederland.",
+      "Vakantieparken Beekse Bergen, Safari Resort en Lake Resort op het terrein bieden combinatiedeals met meerdaagse toegang."
+    ],
+    "faq": [
+      {"q": "Welke safari's zijn er in Beekse Bergen?", "a": "Er zijn 4 safari's: de autosafari (zelf rijden door het park, inbegrepen bij ticket), de bussafari (begeleid), de bootsafari (langs het meer met andere dieren) en de loopsafari (te voet). Auto en lopen zit bij elk ticket; bus en boot kosten extra."},
+      {"q": "Is Beekse Bergen geschikt voor jonge kinderen?", "a": "Zeker — de autosafari met dichtbij dieren als giraffen en zebra's spreekt jonge kinderen erg aan. Daarnaast is er een groot speelterrein, een waterspeeltuin en een speelbos. Vanaf circa 2 jaar is het leuk."},
+      {"q": "Hoeveel tijd heb je nodig voor een complete dag?", "a": "Reken op 6-8 uur voor een volledige beleving met meerdere safari's en de loopsafari. Wie alleen auto + lopen doet, kan in 4-5 uur klaar zijn. In het hoogseizoen is wachten op bus/boot mogelijk."},
+      {"q": "Mag ik mijn hond meenemen op de safari?", "a": "Ja, in de autosafari mag een hond mee in de auto. Buiten de auto (loopsafari, restaurants, speeltuin) zijn honden niet toegestaan, met uitzondering van assistentiehonden."},
+      {"q": "Werkt Beekse Bergen met dynamische prijzen?", "a": "Ja, ook Beekse Bergen hanteert variabele dagprijzen. Op rustige doordeweekse dagen ben je het goedkoopst uit; weekends in vakanties zitten dichter bij de kassaprijs. Reseller-tickets via Tripper bieden vaak vaste lagere prijzen ongeacht datum."}
+    ]
+  },
+  "dolfinarium": {
+    "openingstijden": "Het Dolfinarium is geopend van begin april tot eind oktober en in de kerstvakantie, meestal 10:00 tot 17:00 uur. In de zomervakantie soms tot 18:00 uur. Het park is in januari, februari en maart gesloten.",
+    "transport_ov": "Vanaf NS-station Harderwijk loop je in ongeveer 10 minuten naar het Dolfinarium of pak je bus 1 voor één halte. Vanuit Utrecht ben je er via Harderwijk in ongeveer 50 minuten, vanaf Amsterdam in iets meer dan een uur.",
+    "transport_auto": "Het Dolfinarium ligt aan de N302 in Harderwijk, op loopafstand van het centrum. Vanaf Amsterdam ben je er via de A28 in 1 uur, vanaf Utrecht in 45 minuten. Parkeren kost €10 per dag op het Dolfinarium-terrein.",
+    "beste_tijd": "Doordeweeks in mei, juni en september zijn de minst drukke dagen. De zeezoogdierenshows hebben vaste tijden — bekijk de planning bij aankomst zodat je niets mist. Bij regen blijft een groot deel van het bezoek leuk (overdekte shows en verblijven).",
+    "tips": [
+      "Bekijk de showplanning meteen na binnenkomst — shows in de Lagune, Roggenrif en Walvissenmeer hebben vaste tijden.",
+      "Reserveer indien beschikbaar een meet & greet met de dolfijnen — extra ervaring, beperkt aantal plekken per dag.",
+      "Het Dolfinarium is compact: 4-5 uur volstaat voor een complete dag inclusief alle shows.",
+      "Combineer met een wandeling langs de Harderwijker boulevard voor een complete dag in Harderwijk.",
+      "Online tickets via dolfinarium.nl zijn altijd goedkoper dan kassa; let op early-birdkortingen vanaf 7 dagen vooruit boeken."
+    ],
+    "faq": [
+      {"q": "Welke dieren zijn er in het Dolfinarium?", "a": "Het Dolfinarium huist tuimelaars (dolfijnen), bruinvissen, zeeleeuwen, walrussen en verschillende vissoorten waaronder roggen. Het is het grootste zeezoogdierenpark van Europa."},
+      {"q": "Worden de shows alleen voor entertainment gedaan?", "a": "Het Dolfinarium presenteert de shows tegenwoordig als educatieve presentaties over de natuurlijke gedragingen van zeezoogdieren. Er is decennialang discussie geweest over dierenwelzijn; het Dolfinarium investeert sindsdien in grotere verblijven en een transitie naar zee-safari's in Griekenland."},
+      {"q": "Mag ik mijn hond meenemen?", "a": "Honden zijn helaas niet toegestaan in het Dolfinarium, met uitzondering van hulphonden en assistentiehonden."},
+      {"q": "Is het Dolfinarium bij regen ook leuk?", "a": "Een groot deel is overdekt (Lagune-arena, Roggenrif, Walvissenmeer-show) dus bij regen blijft de helft van het bezoek prima. Bij heel slecht weer kan een buitenverblijf wel minder leuk zijn — kies bij voorkeur een droge dag."},
+      {"q": "Hoeveel tijd heb je nodig?", "a": "Voor een volledige dag inclusief 3-4 shows reken op 5 uur. Wie maar 1-2 shows wil zien, kan in 3 uur klaar zijn. Het park is overzichtelijk en goed te combineren met andere activiteiten in Harderwijk."}
+    ]
+  },
+  "apenheul": {
+    "openingstijden": "Apenheul is geopend van eind maart tot eind oktober, doorgaans 9:30 tot 17:00 of 18:00 uur. In het hoogseizoen iets langer geopend. Het park is gesloten in de wintermaanden november tot en met maart, mede omdat veel apen niet tegen Nederlandse winters bestand zijn.",
+    "transport_ov": "Vanaf NS-station Apeldoorn rijdt buslijn 102 of 202 in ongeveer 15-20 minuten naar Apenheul. Apeldoorn is met de IC-trein vanuit Amsterdam, Utrecht en Den Haag goed bereikbaar (1 uur tot 1 uur 15 reizen).",
+    "transport_auto": "Apenheul ligt aan de westrand van Apeldoorn, vlakbij de A1 (afslag Apeldoorn-Zuid) en A50. Vanuit Utrecht ben je er in 45 minuten. Parkeren kost €11 per dag op de officiële parking — ook gratis parkeren is mogelijk op een wandelafstand-parkeerplaats in het bos.",
+    "beste_tijd": "Doordeweeks in mei, juni en september ben je het rustigst. Apenheul opent al om 9:30 — kom dan want apen zijn 's ochtends actiefst. In de loop van de dag wordt het drukker en kruipen apen vaker in de hoge bomen.",
+    "tips": [
+      "Trek geen wapperende kleren aan of glimmende sieraden — de losloopende slingerapen vinden dat erg interessant.",
+      "Houd kleine waardevolle spullen (snoep, sleutels, mobiel) in je tas en niet zichtbaar.",
+      "Begin bij de slingerapen-savanne — die is het meest indrukwekkend en je hebt er een unieke ervaring.",
+      "Apenheul is relatief compact (4-5 uur), perfect te combineren met de Julianatoren (15 min) of CODA Museum in Apeldoorn.",
+      "Online tickets via apenheul.com zijn altijd voordeliger dan kassa; check Tripper voor extra kortingen."
+    ],
+    "faq": [
+      {"q": "Lopen de apen echt vrij rond?", "a": "Ja, in de slingerapen-savanne en gorilla-vallei lopen verschillende soorten apen volledig vrij tussen de bezoekers. Andere soorten zoals chimpansees zijn in afgesloten verblijven. Bij vrijlopende apen geldt: niet aanraken, niet voeren, geen losse spullen."},
+      {"q": "Is Apenheul gevaarlijk?", "a": "Apenheul werkt al sinds 1971 met vrijlopende apen en kent een uitstekend veiligheidsrecord. Volg de instructies van de medewerkers (geen blikjes, geen open zakken op de grond). Voor jonge kinderen is wel begeleiding bij vrijlopende dieren aan te raden."},
+      {"q": "Vanaf welke leeftijd is Apenheul geschikt?", "a": "Vanaf circa 2 jaar is het leuk. De combinatie van apen vlak naast je en een mooi bos maakt het voor alle leeftijden boeiend. Met een kinderwagen zijn de paden goed begaanbaar."},
+      {"q": "Hoeveel tijd heb je nodig voor Apenheul?", "a": "Reken op 4-5 uur voor een volledige rondgang met alle verblijven. Apenheul is compacter dan veel andere dierentuinen, maar elke verblijf nodigt uit om langer te kijken vanwege het natuurlijke gedrag van de apen."},
+      {"q": "Mag ik mijn eten meenemen?", "a": "Ja, een eigen lunchpakket meebrengen mag — maar bewaar het in een gesloten tas, anders worden vrijlopende apen er nieuwsgierig naar. Op het terrein zijn ook restaurants en picknickplekken."}
+    ]
+  },
+  "blijdorp": {
+    "openingstijden": "Diergaarde Blijdorp is jaarrond geopend, dagelijks van 9:00 tot 18:00 of 19:00 uur in de zomer en 9:00 tot 17:00 uur in de winter. Op feestdagen meestal ook open, met uitzondering van kerstavond (eerder dicht).",
+    "transport_ov": "Met metro Lijn E vanaf Rotterdam CS rijd je in 10 minuten naar metrostation Blijdorp, vanwaar je in 5 minuten loopt. Tramlijn 7 en 8 stoppen ook direct bij de dierentuin. Vanuit Den Haag of Amsterdam totaalreistijd circa 1 uur tot 1 uur 30.",
+    "transport_auto": "Blijdorp ligt in Rotterdam-Noord, aan de Van Aerssenlaan. Vanaf de A20 (afslag Rotterdam-Centrum/Blijdorp) ben je er in 5 minuten. Parkeren bij P+R Blijdorp kost €7,50 per dag (inclusief OV) — slimmer dan zoeken naar een plek in de buurt.",
+    "beste_tijd": "Doordeweeks 's ochtends vroeg (9:00-11:00) is het rustigst en zijn dieren actief. Vermijd weekenden in de zomervakantie als je drukte wilt ontlopen. Het Oceanium en andere binnenverblijven maken Blijdorp ook bij slecht weer aantrekkelijk.",
+    "tips": [
+      "Begin met het Oceanium (haaien, pinguïns) — dat is het hoogtepunt en het wordt later op de dag drukker.",
+      "Reken op een hele dag — Blijdorp is groot en goed in te delen in werelddelen.",
+      "Combineer Blijdorp met een bezoek aan Rotterdam-Noord of -Centrum (Markthal, Cube houses) voor een complete Rotterdam-dag.",
+      "Een Blijdorp jaarabonnement is rendabel vanaf het tweede bezoek per jaar.",
+      "Online tickets via diergaardeblijdorp.nl zijn altijd voordeliger dan kassa, met dynamische dagprijzen."
+    ],
+    "faq": [
+      {"q": "Wat is het bijzondere aan het Oceanium?", "a": "Het Oceanium is een groot overdekt zee-aquarium met haaien, pinguïns, kelp wouden, schaatsbaai en een enorm panoramaraam. Een bezoek aan het Oceanium kan op zichzelf al een uur duren."},
+      {"q": "Hoe oud is Diergaarde Blijdorp?", "a": "Blijdorp is opgericht in 1857 en daarmee een van de oudere dierentuinen van Nederland. De huidige locatie aan de Van Aerssenlaan is sinds 1940 in gebruik na een verhuizing door uitbreiding van de stad."},
+      {"q": "Is Blijdorp geschikt voor kinderwagens en rolstoelen?", "a": "Ja, het park is volledig toegankelijk met kinderwagens en rolstoelen. De paden zijn breed en grotendeels vlak. Er zijn aangepaste toiletten en bij de hoofdingang kunnen rolstoelen worden geleend (reserveren aanbevolen)."},
+      {"q": "Is er een hotel bij Blijdorp?", "a": "Er is geen hotel direct bij Blijdorp, maar in Rotterdam-Centrum zijn diverse hotels in alle prijsklassen. Met de tram is dat 10-15 minuten reizen. Voor een rustige dag is een hotel in de buurt van Blijdorp Park een aangename optie."},
+      {"q": "Mag ik mijn eigen eten meenemen?", "a": "Ja, een eigen lunchpakket meebrengen is welkom. Er zijn meerdere picknickplekken in het park en daarnaast restaurants, snackbars en koffiebars."}
+    ]
+  },
+  "gaiazoo": {
+    "openingstijden": "GaiaZOO is jaarrond geopend, dagelijks van 10:00 tot 17:00 uur (zomer tot 18:00 uur). Op kerstavond en oudejaarsdag eerder gesloten; eerste kerstdag en nieuwjaarsdag wel geopend.",
+    "transport_ov": "Vanaf NS-station Kerkrade Centrum rijdt buslijn 25 in 5-10 minuten naar de GaiaZOO. Vanaf Maastricht of Heerlen reken op 30-45 minuten reizen inclusief overstap.",
+    "transport_auto": "GaiaZOO ligt aan de Dentgenbachweg in Kerkrade, vlakbij de A76 (afslag Kerkrade-West). Vanuit Maastricht ben je er in 25 minuten, vanuit Eindhoven in 1 uur. Parkeren is gratis bij GaiaZOO — een groot voordeel.",
+    "beste_tijd": "Doordeweeks in mei, juni en september ben je het rustigst en het voordeligst. GaiaZOO is buiten de Randstad gelegen, dus over het algemeen rustiger dan ARTIS of Blijdorp. In de zomer is het uitkijkpunt over het park spectaculair.",
+    "tips": [
+      "Parkeren is gratis bij GaiaZOO — een prettige kostenbesparing voor gezinnen.",
+      "Begin bij het 'looppad in de boomtoppen' voor unieke perspectieven op dieren.",
+      "GaiaZOO is gebouwd op een voormalige mijnsteenheuvel, met spectaculaire hoogteverschillen en uitzichten — goede schoenen zijn handig.",
+      "Combineer met een bezoek aan Snowworld Landgraaf of het Cube Design Museum Kerkrade voor een complete Limburgse dag.",
+      "Online tickets via gaiazoo.nl zijn doorgaans iets goedkoper dan kassa, met dynamische dagprijzen."
+    ],
+    "faq": [
+      {"q": "Wat maakt GaiaZOO bijzonder?", "a": "GaiaZOO is een relatief moderne dierentuin (geopend in 2005) gebouwd op een mijnsteenheuvel. Door het reliëf wandel je door verschillende biotopen — savanne, oerwoud, bergland — met spectaculaire uitkijkpunten. De ruimte voor de dieren is bovengemiddeld."},
+      {"q": "Is GaiaZOO geschikt voor kinderwagens?", "a": "Het park heeft veel hoogteverschillen, dus met een kinderwagen kun je sommige paden minder goed bedwingen. Er zijn alternatieve routes en liften. Voor jonge kinderen die nog veel willen lopen werkt het uitstekend."},
+      {"q": "Hoeveel tijd heb je nodig voor GaiaZOO?", "a": "Reken op 5-7 uur voor een complete rondgang. Het park is middelgroot en goed te overzien in een dag. Voor wie alle uitkijkpunten en het bovenste boomtoppen-pad wil bezoeken, is 7 uur prettig."},
+      {"q": "Is GaiaZOO leuk bij regen?", "a": "Een deel van de verblijven is overdekt (tropische delen, savannehuis) — bij lichte regen kun je het bezoek goed doorzetten. Bij zware regen of harde wind raden we een droge dag aan, omdat het overgrote deel van het park buiten is."},
+      {"q": "Mag ik mijn eigen eten meenemen?", "a": "Ja, een eigen lunchpakket meebrengen mag. Er zijn picknickplekken in het park, vooral op de zonneterrassen met uitzicht. Daarnaast zijn er restaurants en snackbars."}
+    ]
+  },
+  "dierenpark-amersfoort": {
+    "openingstijden": "DierenPark Amersfoort is jaarrond geopend, dagelijks van 9:00 of 9:30 tot 17:00 of 18:00 uur (langer in de zomer). Op feestdagen meestal open; kerstavond en oudejaarsdag eerder gesloten.",
+    "transport_ov": "Vanaf NS-station Amersfoort Centraal rijdt buslijn 17 of 70 in 10-15 minuten naar de hoofdingang. Vanuit Utrecht ben je er via Amersfoort in 30-40 minuten, vanuit Amsterdam in 50 minuten.",
+    "transport_auto": "DierenPark Amersfoort ligt aan de Barchman Wuytierslaan, vlakbij de A28 (afslag Amersfoort-Centrum). Vanuit Utrecht ben je er in 25 minuten, vanaf Amsterdam in 45 minuten. Parkeren kost €5,50 per dag — relatief voordelig.",
+    "beste_tijd": "Doordeweeks in mei, juni en september ben je het voordeligst en het rustigst. De Dino-Bos en het Berenbos zijn ook bij regen prima te bezoeken, maar veel verblijven zijn buiten. Vroeg op de dag zijn de dieren het actiefst.",
+    "tips": [
+      "De Dino-Bos (levensgrote dinosaurus-modellen) is uniek en zeer geliefd bij jonge kinderen.",
+      "Het Berenbos (grote bruine beren in een natuurlijk bosgebied) is een hoogtepunt — kom op een rustig moment om alles goed te zien.",
+      "Het park is relatief vlak en goed begaanbaar — ideaal met kinderwagens of rolstoelen.",
+      "Combineer met een bezoek aan Amersfoort-Centrum (15 minuten lopen) voor een complete dag.",
+      "Online tickets via dierenparkamersfoort.nl zijn doorgaans iets voordeliger dan kassa."
+    ],
+    "faq": [
+      {"q": "Wat is uniek aan DierenPark Amersfoort?", "a": "DierenPark Amersfoort is bekend om het Berenbos (grote bruine beren in een natuurlijke setting), de Dino-Bos met levensgrote dinosaurusmodellen en het Lemoer-eiland waar lemoeren vrij rondlopen. Het park heeft veel natuurlijke verblijven."},
+      {"q": "Is het park geschikt voor jonge kinderen?", "a": "Zeer geschikt vanaf circa 2 jaar. De Dino-Bos spreekt jonge kinderen erg aan, en er zijn veel speeltuinen verspreid over het park. De paden zijn vlak en kinderwagen-vriendelijk."},
+      {"q": "Hoe lang duurt een bezoek?", "a": "Voor een complete dag reken op 5-7 uur. Het park is middelgroot en goed in een dag te bekijken. Met jonge kinderen plus speeltuinen kun je gemakkelijk een hele dag vullen."},
+      {"q": "Is parkeren betaalbaar?", "a": "Ja, parkeren kost €5,50 per dag — duidelijk goedkoper dan bij grotere parken zoals Burgers' Zoo of Ouwehands. Dit drukt de totaalkosten van een dagje uit aanzienlijk."},
+      {"q": "Mag ik mijn hond meenemen?", "a": "Honden zijn niet toegestaan in DierenPark Amersfoort, met uitzondering van hulphonden en assistentiehonden."}
+    ]
+  },
+  "wildlands": {
+    "openingstijden": "Wildlands Adventure Zoo is jaarrond geopend, dagelijks van 10:00 tot 17:00 of 18:00 uur. In de zomer soms tot 19:00 uur. Op kerstavond en oudejaarsdag eerder gesloten; eerste kerstdag en nieuwjaarsdag wel open.",
+    "transport_ov": "Vanaf NS-station Emmen loop je in 5-10 minuten naar Wildlands (direct in het centrum). Emmen is met de IC-trein vanuit Zwolle in ongeveer een uur bereikbaar. Vanaf Amsterdam reken op 2 uur reizen.",
+    "transport_auto": "Wildlands ligt in het centrum van Emmen, aan de N381. Vanuit Groningen ben je er in 40 minuten, vanuit Zwolle in 1 uur en 15 minuten. Parkeren in een nabijgelegen garage kost €10 per dag.",
+    "beste_tijd": "Doordeweeks in mei, juni en september ben je het rustigst. De drie werelden — Jungola, Serenga en Nortica — zijn elk uniek en hebben overdekte delen, dus ook bij regen is een groot deel van het bezoek mogelijk. Door de afgelegen ligging is Wildlands vaak rustiger dan dierentuinen in de Randstad.",
+    "tips": [
+      "Begin met de boottocht door Jungola (tropisch regenwoud) — een unieke beleving en het meest indrukwekkend wanneer er nog weinig mensen zijn.",
+      "Wildlands combineert dierentuin, speeltuin en attractiepark — neem de tijd voor alle drie de werelden.",
+      "Het centrum van Emmen is direct naast Wildlands, ideaal voor een lunch- of dinercombinatie.",
+      "De Theaterzee-show (zeeleeuwen) heeft vaste tijden — check de planning bij aankomst.",
+      "Online tickets via wildlands.nl zijn altijd voordeliger dan kassa, met regelmatige Early Bird-acties."
+    ],
+    "faq": [
+      {"q": "Wat zijn de drie werelden van Wildlands?", "a": "Jungola is het tropische regenwoud (chimpansees, jaguars, boottocht). Serenga is de Afrikaanse savanne (giraffen, leeuwen, zebra's). Nortica is het arctische gebied (ijsberen, zeeleeuwen, walrussen)."},
+      {"q": "Is Wildlands een dierentuin of een attractiepark?", "a": "Beide — Wildlands combineert een moderne dierentuin met attracties zoals een boottocht door de jungle, een rafting-attractie en speelterreinen. Het concept is uniek in Nederland."},
+      {"q": "Hoe oud is Wildlands?", "a": "Wildlands is in 2016 geopend als opvolger van het oude Noorder Dierenpark. Het ontwerp en concept zijn modern, met aanzienlijk grotere verblijven en interactieve elementen."},
+      {"q": "Hoe lang heb je nodig voor Wildlands?", "a": "Reken op een complete dag (7-8 uur) voor alle drie werelden plus boottocht en attracties. Door de combinatie van dierentuin en attracties zijn 8 uur snel voorbij."},
+      {"q": "Is Wildlands geschikt voor kleine kinderen?", "a": "Zeker — Wildlands is gericht op de hele familie. Er zijn veel speeltuinen, kindvriendelijke attracties en de overdekte delen maken het ook bij regen geschikt voor jonge kinderen vanaf circa 2 jaar."}
+    ]
+  },
+  "tikibad": {
+    "openingstijden": "Het Tikibad is jaarrond geopend, dagelijks van 10:00 tot 22:00 uur (afhankelijk van seizoen kan dit variëren). Op feestdagen ook geopend. Reserveren met tijdslot is verplicht — je kunt niet zomaar binnenlopen.",
+    "transport_ov": "Het Tikibad ligt op het terrein van Duinrell. Vanaf NS-station Den Haag of Wassenaar Kasteelpark rijdt buslijn 43 of 90 in 15-20 minuten. Vanuit Amsterdam reken op ruim 1 uur reizen.",
+    "transport_auto": "Het Tikibad is bereikbaar via de N44 tussen Den Haag en Leiden, op het terrein van Duinrell in Wassenaar. Parkeren op Duinrell kost €15 per dag voor daggasten; verblijfsgasten parkeren gratis.",
+    "beste_tijd": "Doordeweekse avonden (vooral di/wo) en winterse weekdagen zijn het rustigst en het voordeligst. De zomervakantie en herfstvakantie zijn duidelijk drukker; reserveer dan ruim vooruit. Het tijdslot van 4 uur is ruim voldoende voor de meeste bezoekers.",
+    "tips": [
+      "Reserveren met tijdslot is verplicht — boek minimaal enkele dagen vooruit in vakanties, anders kun je niet binnen.",
+      "Het tijdslot is 4 uur, ruim voldoende; je hoeft niet te haasten.",
+      "Combineer in de zomer met een dag in het attractiepark Duinrell — combiticket levert besparing op.",
+      "Het Tikibad heeft een van de grootste glijbaancollecties van Europa — meer dan 20 verschillende.",
+      "Online tickets via duinrell.nl zijn altijd voordeliger dan kassa, met dynamische prijzen."
+    ],
+    "faq": [
+      {"q": "Is het Tikibad onderdeel van Duinrell?", "a": "Ja, het Tikibad staat op het terrein van Duinrell. Je kunt het Tikibad apart bezoeken (zonder het attractiepark), maar veel bezoekers nemen een combiticket voor beide."},
+      {"q": "Hoe lang is een tijdslot in het Tikibad?", "a": "Een tijdslot duurt 4 uur. Je kunt het bad alleen tijdens het gereserveerde slot betreden. Er zijn meerdere slots per dag (overdag en 's avonds), dus er is flexibiliteit in planning."},
+      {"q": "Is het Tikibad geschikt voor jonge kinderen?", "a": "Ja, naast de grote glijbanen is er een afzonderlijk peuterbad en een ondiep familiebad. De grootste glijbanen hebben minimumlengtes (meestal 1,30 m); voor kleinere kinderen blijven er voldoende attracties over."},
+      {"q": "Mag ik mijn eigen eten meenemen?", "a": "Ja, een eigen lunchpakket meebrengen is toegestaan. Er zijn ook horecagelegenheden in het Tikibad en op het Duinrell-terrein."},
+      {"q": "Wat is uniek aan het Tikibad?", "a": "Het Tikibad heeft een van de grootste glijbaancollecties van Europa, met meer dan 20 verschillende glijbanen — van kinderbaan tot wildwater. Daarnaast een uniek Polynesisch thema en jaarronde tropische temperatuur."}
+    ]
+  },
+  "plopsa-coevorden": {
+    "openingstijden": "Plopsa Indoor Coevorden is jaarrond geopend, doorgaans 10:00 tot 17:00 of 18:00 uur. Tijdens schoolvakanties dagelijks open; buiten schoolvakanties soms gesloten op doordeweekse dagen. Check de website voor de actuele kalender.",
+    "transport_ov": "Vanaf NS-station Coevorden loop je in 10-15 minuten naar Plopsa Indoor of pak je bus 1. Coevorden is met de stoptrein vanuit Zwolle in ruim een uur bereikbaar. Vanaf Amsterdam reken op 2 uur reizen.",
+    "transport_auto": "Plopsa Indoor Coevorden ligt aan de Van Heutszsingel in Coevorden, vlakbij de N34. Vanuit Groningen ben je er in 1 uur, vanuit Zwolle in 1 uur. Parkeren is gratis bij het park.",
+    "beste_tijd": "Doordeweeks in schoolvakanties is het altijd open en relatief rustig. Buiten vakanties zijn doordeweekse dagen vaak het rustigst — check eerst of het park open is. Bij slecht weer is dit een ideale uitvalsbasis, want alles is indoor.",
+    "tips": [
+      "Plopsa is volledig overdekt — perfect voor regenachtige dagen of koude winterse weekenden.",
+      "Het park is gericht op jonge kinderen (3-10 jaar); voor tieners is het aanbod te beperkt.",
+      "Online tickets via plopsa.com zijn altijd goedkoper dan de kassaprijs van €27,50.",
+      "Coevorden ligt afgelegen — combineer met een kort verblijf in het Drenthe-platteland voor een ontspannen midweek.",
+      "Plopsa heeft ook andere parken in België (Plopsaland De Panne) — een Plopsa-pas is rendabel als je beide bezoekt."
+    ],
+    "faq": [
+      {"q": "Wat zijn de Plopsa-figuren?", "a": "Plopsa is een Belgisch merk gebaseerd op Studio 100-figuren — onder andere Bumba, Maya de Bij, Mega Mindy en K3. De attracties zijn rond deze figuren gebouwd."},
+      {"q": "Voor welke leeftijd is Plopsa Indoor Coevorden?", "a": "Het park is specifiek gericht op kinderen tussen 3 en 10 jaar. Voor jongere kinderen zijn er Bumba-attracties; oudere kinderen vinden veel attracties wat kinderachtig."},
+      {"q": "Hoe lang heb je nodig voor een bezoek?", "a": "Voor een volledige dag reken op 4-5 uur. Plopsa Indoor Coevorden is relatief klein vergeleken met andere attractieparken — een halve dag is vaak al voldoende."},
+      {"q": "Is het park geschikt voor kinderen met autisme?", "a": "Plopsa biedt rustigere openingstijden ('Stille uurtjes') op een aantal dagen per jaar, speciaal voor kinderen die gevoelig zijn voor geluid en drukte. Check de website voor de planning."},
+      {"q": "Mag ik eigen eten meenemen?", "a": "Het beleid varieert; meestal mag je eigen drinken meenemen maar geen volledige picknick. Op het terrein zijn meerdere snackbars en lunchgelegenheden."}
+    ]
+  },
+  "monkey-town": {
+    "openingstijden": "Monkey Town heeft meerdere vestigingen door heel Nederland, elk met eigen openingstijden. Meestal 10:00 tot 18:00 uur in het weekend en schoolvakanties; doordeweeks vaak vanaf 14:00 of alleen tijdens schoolvakanties geopend. Check de vestigingspagina voor jouw locatie.",
+    "transport_ov": "Monkey Town heeft locaties in onder andere Amsterdam, Eindhoven, Den Haag, Tilburg, Maastricht en meer. Elke vestiging is bereikbaar met OV; meestal zit een Monkey Town op een bedrijventerrein of in een winkelcentrum waar bus of tram stopt.",
+    "transport_auto": "De meeste vestigingen liggen aan de rand van een stad of op een bedrijventerrein met ruime parkeergelegenheid. Parkeren is bij vrijwel alle vestigingen gratis. Bekijk de specifieke vestiging op monkeytown.eu voor exacte ligging.",
+    "beste_tijd": "Doordeweekse middagen buiten schoolvakanties zijn het rustigst en het goedkoopst. In het weekend en schoolvakanties is het duidelijk drukker. Voor jonge kinderen is een rustige middag prettiger dan een hectische zaterdagochtend.",
+    "tips": [
+      "Begeleiders (ouders/opa's/oma's) mogen gratis mee — alleen kinderen betalen.",
+      "De prijs per kind verschilt per vestiging — vergelijk vooraf via monkeytown.eu.",
+      "Monkey Town is volledig overdekt — ideaal voor regendagen en koude winterdagen.",
+      "Voor jonge kinderen (1-7 jaar) is dit ideaal; voor oudere kinderen wordt het snel saai.",
+      "Combineer met boodschappen in het naastgelegen winkelcentrum (waar van toepassing) voor een efficiënte middag."
+    ],
+    "faq": [
+      {"q": "Wat is Monkey Town precies?", "a": "Monkey Town is een keten van overdekte indoor-speelparadijzen voor kinderen met klimrekken, glijbanen, ballenbakken, springkussens en speelhuizen. Het concept is volledig binnen en weersonafhankelijk."},
+      {"q": "Vanaf welke leeftijd is Monkey Town leuk?", "a": "Monkey Town is geschikt voor kinderen vanaf circa 1 tot 7 jaar. Voor de allerkleinsten is er een afgescheiden peuterhoek. Vanaf 8 jaar wordt het snel saai voor de meeste kinderen."},
+      {"q": "Hoeveel kost een bezoek aan Monkey Town?", "a": "De entree per kind ligt rond €10,95 (richtprijs, verschilt per vestiging en dag). Begeleiders zijn gratis. Voor twee kinderen ben je dus zo'n €20-€25 kwijt voor een hele middag."},
+      {"q": "Is een tijdslot reserveren verplicht?", "a": "Bij sommige vestigingen tijdens drukke periodes (vakanties, weekenden) wel; doordeweeks meestal niet. Check de specifieke vestiging via monkeytown.eu voor de actuele situatie."},
+      {"q": "Mag ik mijn eigen eten meenemen?", "a": "Meestal is eigen eten niet toegestaan; de meeste vestigingen hebben een eigen horeca met betaalbare kindermenu's en koffie. Beleid kan per vestiging verschillen."}
+    ]
+  },
+  "aqua-mundo": {
+    "openingstijden": "Aqua Mundo bij Center Parcs is jaarrond geopend, dagelijks van 9:00 of 10:00 tot 21:00 of 22:00 uur. Openingstijden verschillen per Center Parcs-park (er zijn meerdere in Nederland). Reserveren is voor daggasten verplicht.",
+    "transport_ov": "Aqua Mundo zit in Center Parcs-vakantieparken op verschillende locaties (Het Heijderbos, De Kempervennen, Park Allardsoog, De Eemhof, Het Meerdal etc.). Elk park ligt afgelegen; OV-bereikbaarheid is beperkt en vergt vaak een taxi vanaf het dichtstbijzijnde station.",
+    "transport_auto": "Komen met de auto is voor Aqua Mundo veruit het meest praktisch. Alle Center Parcs-locaties hebben ruime parkeerterreinen. Parkeren is gratis op de meeste parken — een groot voordeel.",
+    "beste_tijd": "Doordeweekse middagen buiten schoolvakanties zijn het rustigst en het voordeligst. Voor daggasten is reserveren verplicht en zijn slots in vakanties snel vol. Avondbezoek (na 17:00) is vaak rustiger en goedkoper.",
+    "tips": [
+      "Reserveer als daggast minimaal enkele dagen vooruit; in vakanties wel een week vooruit.",
+      "De prijs voor daggasten verschilt sterk per park en per dag — vergelijk de Center Parcs-locaties.",
+      "Aqua Mundo De Eemhof is een van de grootste, met meerdere golfslagbaden en een wildwaterbaan.",
+      "Combineer met een korte midweek of weekend in een Center Parcs-bungalow — vaak voordeliger per persoon.",
+      "Voor verblijfsgasten van Center Parcs is Aqua Mundo onbeperkt gratis tijdens het verblijf."
+    ],
+    "faq": [
+      {"q": "Welke Center Parcs-parken hebben Aqua Mundo?", "a": "Vrijwel alle Center Parcs-parken in Nederland hebben Aqua Mundo: Het Heijderbos, De Kempervennen, Park Allardsoog (Het Vechtdal), De Eemhof, Het Meerdal, Limburgse Peel, Park Zandvoort, en meer. Grootte en aanbod verschilt per park."},
+      {"q": "Kan ik Aqua Mundo bezoeken zonder Center Parcs-verblijf?", "a": "Ja, je kunt als daggast een Aqua Mundo-ticket boeken zonder bungalow. Reserveren is verplicht en de prijs ligt rond €32 per dagticket (volwassene). In vakanties zijn slots vaak vol — boek vroeg."},
+      {"q": "Is Aqua Mundo geschikt voor jonge kinderen?", "a": "Ja, er is een afgescheiden peuterbad in elk Aqua Mundo. Daarnaast zijn er rustige zwembaden, golfslagbaden en glijbanen op meerdere niveaus. Voor de allergrootste glijbanen geldt een minimumlengte."},
+      {"q": "Mag ik eigen eten meenemen?", "a": "Eigen eten is doorgaans niet toegestaan in Aqua Mundo. Op elk park is een restaurant of café in het zwembad. Voor verblijfsgasten is een eigen lunch maken in de bungalow vaak praktischer."},
+      {"q": "Hoe lang kan ik in Aqua Mundo blijven?", "a": "Als daggast krijg je een tijdslot dat doorgaans de hele dag of een dagdeel beslaat. Vaak is het in praktijk een complete dag tot sluitingstijd. Verblijfsgasten kunnen onbeperkt in en uit."}
+    ]
+  },
+  "de-bonte-wever": {
+    "openingstijden": "De Bonte Wever in Assen is jaarrond geopend voor het zwemparadijs, dagelijks van 10:00 tot 22:00 uur. Op zon- en feestdagen vaak iets later open. Voor zwembad geen reservering nodig, voor sauna soms wel (afhankelijk van seizoen).",
+    "transport_ov": "Vanaf NS-station Assen rijdt buslijn 3 of 86 in 10-15 minuten naar De Bonte Wever. Assen is met de IC vanuit Zwolle in 45 minuten bereikbaar; vanaf Amsterdam reken op 2 uur.",
+    "transport_auto": "De Bonte Wever ligt aan de Stadsbroek in Assen, vlakbij de A28 (afslag Assen-Zuid). Vanuit Groningen ben je er in 30 minuten, vanaf Zwolle in 1 uur. Parkeren is gratis op het ruime parkeerterrein.",
+    "beste_tijd": "Doordeweekse ochtenden en namiddagen zijn het rustigst. De avond (na 19:00) is ook rustig en biedt vaak goedkopere tickets. In de zomervakantie en kerstvakantie is het duidelijk drukker; reserveer dan vroeg op de dag.",
+    "tips": [
+      "Het ticket is all-in — zwembad én sauna inbegrepen voor één tarief.",
+      "De Bonte Wever combineert zwemmen, sauna, bowlen en restaurant onder één dak — leuk voor een complete dag.",
+      "Online tickets via debontewever.nl zijn doorgaans 10-15% goedkoper dan kassa.",
+      "Voor gezinnen met jonge kinderen is het peuterbad en de glijbaan-stoeltjes ideaal.",
+      "Het is een van de voordeligste zwemparadijzen van Nederland — €14,45 voor een hele dag is uitzonderlijk."
+    ],
+    "faq": [
+      {"q": "Wat zit er bij een ticket van De Bonte Wever inbegrepen?", "a": "Een dagticket geeft toegang tot het hele complex: golfslagbad, wildwaterbaan, glijbanen, peuterbad en sauna. Bowlen en restaurants zijn apart te betalen."},
+      {"q": "Is De Bonte Wever geschikt voor jonge kinderen?", "a": "Zeker — er is een afgescheiden peuterbad, een kinderbad met kleine glijbaantjes en de wildwaterbaan is mild genoeg voor kinderen vanaf circa 6 jaar (met begeleiding)."},
+      {"q": "Mag ik mijn eigen eten meenemen?", "a": "Eten in het zwembadgebied is niet toegestaan. Op het terrein zijn restaurants en snackbars; ook een buitenterras voor warme dagen."},
+      {"q": "Is reserveren verplicht?", "a": "Voor het reguliere zwembad meestal niet, voor de sauna soms wel (vooral op zaterdagavonden). Check de website voor de actuele situatie."},
+      {"q": "Wat zijn de openingstijden voor de sauna?", "a": "De sauna is doorgaans 12:00 tot 22:00 uur geopend. Op rustige doordeweekse dagen is het 's middags en 's avonds het gezelligst en het minst druk."}
+    ]
+  },
+  "spoorwegmuseum": {
+    "openingstijden": "Het Spoorwegmuseum is geopend van dinsdag tot en met zondag, en op feestdagen (behalve eerste kerstdag, nieuwjaarsdag en Koningsdag), van 10:00 tot 17:00 uur. Op maandag gesloten (uitgezonderd schoolvakanties). Reserveren met tijdslot verplicht.",
+    "transport_ov": "Het Spoorwegmuseum bevindt zich in voormalig station Maliebaan. Vanaf NS-station Utrecht Centraal rijdt elk uur een speciale museumtrein (Stoom of Hippe) gratis naar Maliebaan — een unieke ervaring. Ook bus 4 of tram brengt je in 10 minuten naar Maliebaan.",
+    "transport_auto": "Het museum ligt aan de Maliebaanstation in Utrecht-Oost. Parkeren in Utrecht-Oost is schaars en duur (€4-€5 per uur). Gebruik bij voorkeur P+R De Uithof, P+R Westraven of P+R Papendorp (€7,50 per dag inclusief OV).",
+    "beste_tijd": "Doordeweekse ochtenden direct na opening (10:00) zijn het rustigst. Weekenden zijn duidelijk drukker; reserveer vroeg. In schoolvakanties is reserveren ruim vooruit aanbevolen, want tijdsloten zitten snel vol.",
+    "tips": [
+      "Reserveer minimaal enkele dagen vooruit — een tijdslot is verplicht.",
+      "Reis vanaf Utrecht CS met de gratis museumtrein (stoomlocomotief of historisch elektrisch) — dit alleen al maakt het bezoek tot een avontuur.",
+      "Reken op 4-5 uur voor een complete bezoek met alle attractieve onderdelen (3D-films, Trans, Stalen Monsters).",
+      "De simulator is populair — reserveer indien beschikbaar een slot bij aankomst.",
+      "Online tickets via spoorwegmuseum.nl zijn vaste prijs (€19,50 volwassen)."
+    ],
+    "faq": [
+      {"q": "Wat is uniek aan het Spoorwegmuseum?", "a": "Het museum bevindt zich in een prachtig 19e-eeuws station (Maliebaanstation), gerestaureerd tot interactief museum. Combinatie van historische treinen, doe-attracties (3D-films, simulator, ride 'Stalen Monsters') en stijlvolle architectuur is uniek in Europa."},
+      {"q": "Is het Spoorwegmuseum leuk voor kinderen?", "a": "Zeer — het museum is opgezet als doe-museum met veel interactieve elementen. De ride 'Stalen Monsters' (achtbaan-achtige attractie in tunnel) en de simulator zijn favoriet bij kinderen vanaf 6 jaar."},
+      {"q": "Hoe lang duurt een bezoek?", "a": "Voor een complete bezoek met alle attracties en films reken op 4-5 uur. Voor een snel bezoek met alleen de historische treinen kun je in 2-2,5 uur klaar zijn."},
+      {"q": "Mag ik eigen eten meenemen?", "a": "Eigen eten meenemen is toegestaan; er zijn picknickplekken in het buitendomein. In het museum zelf is ook een restaurant ('Wachtkamer') en koffiebars."},
+      {"q": "Heeft het Spoorwegmuseum vaste prijs of dynamische prijs?", "a": "Het Spoorwegmuseum heeft vaste prijs van €19,50 (volwassen), het hele jaar door. Met Museumkaart is de toegang gratis — interessant voor gezinnen die meerdere musea bezoeken."}
+    ]
+  },
+  "naturalis": {
+    "openingstijden": "Naturalis is jaarrond geopend, dagelijks van 10:00 tot 17:00 uur. Op feestdagen meestal ook open, met uitzondering van eerste kerstdag, nieuwjaarsdag en Koningsdag. Reserveren met tijdslot verplicht, vooral in vakanties.",
+    "transport_ov": "Vanaf NS-station Leiden Centraal loop je in 10 minuten naar Naturalis of pak je bus 43 voor één halte. Leiden is met de IC vanuit Amsterdam (35 minuten) of Den Haag (15 minuten) snel bereikbaar.",
+    "transport_auto": "Naturalis ligt aan de Darwinweg in Leiden, vlakbij de A44. Parkeren in Leiden Centrum is duur; gebruik P+R Lammenschans (€5 per dag inclusief OV) of de parking onder Naturalis (€3 per uur, max €15 per dag).",
+    "beste_tijd": "Doordeweekse ochtenden direct na opening zijn het rustigst en het meest comfortabel. Vermijd weekenden in vakanties — dan staan vooral de dinosaurusoverzichten vol. In schoolvakanties is reserveren essentieel.",
+    "tips": [
+      "Reserveer ruim vooruit, vooral in schoolvakanties — Naturalis kan in vakanties wekenlang vol zitten.",
+      "Begin bij de dinosaurussen op verdieping LiveScience — daar staan ook bekende exemplaren als Trix de T-Rex.",
+      "Reken op 3-5 uur voor een volledig bezoek met de meest populaire afdelingen.",
+      "Met de Museumkaart krijg je gratis toegang — al rendabel als je dit jaar nog 2-3 musea bezoekt.",
+      "Combineer met een wandeling door Leiden (centrum, Hortus Botanicus) voor een complete dag."
+    ],
+    "faq": [
+      {"q": "Wat maakt Naturalis bijzonder?", "a": "Naturalis is het nationaal natuurhistorisch museum met de grootste natuurcollectie van Nederland (ruim 42 miljoen objecten). Trix de T-Rex (een van de meest complete T-Rex-skeletten ter wereld) is het pronkstuk."},
+      {"q": "Is Naturalis geschikt voor jonge kinderen?", "a": "Vanaf circa 4 jaar is het zeer geschikt. De dinosaurussen, het Dino-bos en de interactieve experimenten zijn ideaal voor kinderen. Voor de allerkleinsten kan het museum wat overweldigend zijn."},
+      {"q": "Wat is de Museumkaart en is die voordelig?", "a": "De Museumkaart geeft een jaar gratis toegang tot ruim 450 musea in Nederland. Voor ongeveer €75 per persoon (volwassen) ben je rendabel als je 4-5 musea per jaar bezoekt. Met meerdere musea in een gezin levert dat snel besparing op."},
+      {"q": "Hoe lang duurt een bezoek aan Naturalis?", "a": "Voor een complete bezoek reken op 3-5 uur. Het museum is opgezet over 8 zalen, elk met een eigen thema (dinosaurussen, mensen, dieren, zeeën). Een snel bezoek kan in 2 uur."},
+      {"q": "Mag ik eigen eten meenemen?", "a": "Eigen eten meenemen is toegestaan; er is een picknickruimte. Daarnaast heeft Naturalis een museumcafé en restaurant voor wie ter plaatse wil eten."}
+    ]
+  },
+  "nemo": {
+    "openingstijden": "NEMO Science Museum is jaarrond geopend, dinsdag tot en met zondag van 10:00 tot 17:30 uur (in schoolvakanties dagelijks geopend, dus ook maandag). Op feestdagen meestal open; eerste kerstdag en Koningsdag gesloten.",
+    "transport_ov": "NEMO ligt op 5 minuten lopen vanaf Amsterdam Centraal. Met bus 22 of 48 ben je er in 2 minuten. Door de centrale ligging is NEMO uit elke richting in het land bereikbaar met OV.",
+    "transport_auto": "NEMO heeft geen eigen parkeerplaats. Parkeren in Amsterdam-Centrum kost €7,50 per uur. Gebruik bij voorkeur P+R Zeeburg (€8 per dag inclusief OV) of P+R Olympic Stadium.",
+    "beste_tijd": "Doordeweekse ochtenden direct na opening zijn het rustigst. Weekenden en schoolvakanties zijn duidelijk drukker. Reserveer altijd online — NEMO loopt regelmatig vol vooral op regendagen en in vakanties.",
+    "tips": [
+      "Reserveer online — NEMO kan in vakanties of bij regenachtige weekenden snel vol zijn.",
+      "Begin op de bovenste verdieping (5e) bij het uitzicht over Amsterdam en werk je naar beneden — minder druk.",
+      "Het dakterras heeft een gratis publiek uitzicht over Amsterdam — ook zonder ticket toegankelijk.",
+      "Voor kinderen vanaf 6 jaar is NEMO ideaal; jonge kinderen hebben er ook plezier maar begrijpen de experimenten nog niet helemaal.",
+      "Met de Museumkaart is NEMO gratis."
+    ],
+    "faq": [
+      {"q": "Wat is NEMO?", "a": "NEMO Science Museum is het grootste science center van Nederland, met vijf verdiepingen vol interactieve doe-experimenten over wetenschap, techniek, energie en de menselijke geest. Het museum opende in 1997 in het herkenbare groene gebouw van Renzo Piano."},
+      {"q": "Voor welke leeftijd is NEMO geschikt?", "a": "NEMO is het meest geschikt voor kinderen tussen 6 en 14 jaar. Jonge kinderen (3-6) hebben er ook lol, maar veel experimenten zijn voor hen nog te complex. Voor tieners en volwassenen is er ook genoeg te ontdekken."},
+      {"q": "Hoe lang duurt een bezoek?", "a": "Voor een volledig bezoek reken op 3-4 uur. Met jonge kinderen die echt willen experimenteren kan het langer duren. Een snel bezoek met de hoogtepunten is in 2 uur mogelijk."},
+      {"q": "Is het dakterras gratis toegankelijk?", "a": "Ja, het dakterras met uitzicht over Amsterdam is gratis toegankelijk, ook zonder museum-ticket. Het is een populaire plek in de zomer en biedt een van de mooiste publieke uitzichten over het centrum."},
+      {"q": "Mag ik eigen eten meenemen?", "a": "Eigen eten meenemen is toegestaan; er is een afgescheiden lunchruimte. Daarnaast heeft NEMO een museumcafé en op het dakterras een snackbar/koffiebar."}
+    ]
+  },
+  "rijksmuseum": {
+    "openingstijden": "Het Rijksmuseum is jaarrond geopend, dagelijks van 9:00 tot 17:00 uur. Op eerste kerstdag en nieuwjaarsdag soms aangepaste tijden. Tickets uitsluitend online met tijdslot — er zijn geen kassatickets meer.",
+    "transport_ov": "Het Rijksmuseum ligt aan het Museumplein in Amsterdam. Tram 2 of 12 vanaf Amsterdam Centraal stoppen vlakbij; reistijd circa 15 minuten. Met de trein vanaf de luchthaven of andere steden ben je er via Centraal of Station Zuid snel.",
+    "transport_auto": "Het Rijksmuseum heeft geen eigen parkeergelegenheid. Gebruik bij voorkeur P+R RAI of P+R Olympic Stadium (€8 per dag inclusief OV) — parkeren in centrum is duur en schaars.",
+    "beste_tijd": "Doordeweekse ochtenden direct na opening (9:00-10:00) zijn het rustigst. Vermijd weekends, want het museum is internationaal populair. Voor de Nachtwacht-zaal is een vroeg tijdslot een uitstekende keuze.",
+    "tips": [
+      "Boek je tijdslot online ruim vooruit, vooral in zomer en vakanties — slots zitten dan een week vooruit al vol.",
+      "Gebruik de gratis Rijksmuseum-app met audiotour — beter dan veel betaalde tours.",
+      "De Nachtwacht (Rembrandt) is hét hoogtepunt, maar besteed ook tijd aan Vermeer (Het Melkmeisje), Hals en de aparte zalen voor Aziatische kunst.",
+      "Met de Museumkaart is het Rijksmuseum gratis — al rendabel als je dit jaar nog 2-3 musea bezoekt.",
+      "Reken op 3-4 uur; voor een complete diepgaande bezoek 5-6 uur."
+    ],
+    "faq": [
+      {"q": "Moet ik mijn ticket online kopen?", "a": "Ja, tickets voor het Rijksmuseum zijn uitsluitend online verkrijgbaar via rijksmuseum.nl. Er zijn geen kassatickets meer. Reserveren met tijdslot is verplicht."},
+      {"q": "Wat is hét hoogtepunt van het Rijksmuseum?", "a": "De Nachtwacht (Rembrandt, 1642) is het bekendste werk en hangt in een eigen Eregalerij. Verder zijn Vermeers Het Melkmeisje, De Brief Lezende Vrouw en Hals' De Joyeuze Drinker iconisch."},
+      {"q": "Is het Rijksmuseum leuk voor kinderen?", "a": "Vanaf circa 7-8 jaar is het leuk, vooral met de gratis kinder-audiotour die kunstwerken op een speelse manier behandelt. Voor jongere kinderen kan een bezoek aan 3 uur lang museumloop te lang zijn."},
+      {"q": "Mag ik foto's maken in het museum?", "a": "Ja, foto's maken (zonder flits, statief of selfiestick) is toegestaan in vrijwel alle zalen. Voor de Nachtwacht-zaal kan in piek druk de ruimte beperkt zijn."},
+      {"q": "Hoe lang duurt een bezoek?", "a": "Voor de hoogtepunten reken op 2-3 uur. Voor een complete bezoek met alle vleugels en de Aziatische kunst 4-5 uur. Het Rijksmuseum is enorm; weinig mensen zien alles in één keer."}
+    ]
+  },
+  "vangogh": {
+    "openingstijden": "Het Van Gogh Museum is jaarrond geopend, dagelijks van 9:00 tot 17:00 of 18:00 uur (in zomer langer; soms tot 19:00 uur op vrijdag). Op eerste kerstdag en nieuwjaarsdag soms aangepaste tijden. Tickets alleen online met tijdslot.",
+    "transport_ov": "Het Van Gogh Museum ligt aan het Museumplein in Amsterdam. Tram 2, 5 of 12 vanaf Centraal stoppen vlakbij; reistijd 15 minuten. Het museum ligt op 5 minuten lopen vanaf het Rijksmuseum.",
+    "transport_auto": "Het Van Gogh Museum heeft geen eigen parkeergelegenheid. Gebruik P+R RAI of P+R Olympic Stadium (€8 per dag inclusief OV). Parkeren in centrum is duur (€7,50 per uur of meer) en schaars.",
+    "beste_tijd": "Doordeweekse ochtenden direct na opening zijn het rustigst. Vermijd weekenden — Van Gogh is internationaal populair en kan dan vol staan. Voor een rustige bezoek kies een vroege tijdslot op een doordeweekse dag.",
+    "tips": [
+      "Reserveer minimaal een week vooruit, in zomer of vakantie minimaal 2 weken vooruit — slots gaan snel.",
+      "De gratis Van Gogh-app met audiotour is uitstekend; reken op 2-3 uur voor de complete chronologie.",
+      "Begin bij de vroege jaren (verdieping 1) en werk chronologisch door naar de laatste jaren in Auvers — dan zie je de stilistische ontwikkeling.",
+      "Combineer met het Rijksmuseum of Stedelijk Museum (beide op het Museumplein) voor een efficiënt museumdagje.",
+      "Met de Museumkaart is het Van Gogh Museum gratis — al rendabel bij 2-3 musea per jaar."
+    ],
+    "faq": [
+      {"q": "Wat maakt het Van Gogh Museum bijzonder?", "a": "Het Van Gogh Museum heeft de grootste collectie werken van Vincent van Gogh ter wereld: meer dan 200 schilderijen, 500 tekeningen en 750 brieven. Iconische werken zoals De Aardappeleters, Zonnebloemen en Slaapkamer in Arles zijn hier te zien."},
+      {"q": "Moet ik mijn ticket online kopen?", "a": "Ja, tickets zijn uitsluitend online via vangoghmuseum.nl te kopen. Reserveren met tijdslot is verplicht. Slots gaan snel; boek minimaal een week vooruit (in zomer twee weken)."},
+      {"q": "Is het museum geschikt voor kinderen?", "a": "Vanaf circa 8-10 jaar is een bezoek leuk, vooral met de kinder-audiotour. Het Van Gogh Museum biedt ook speciale family routes en knutselworkshops. Voor jonge kinderen onder 6 kan het museum te statisch zijn."},
+      {"q": "Mag ik foto's maken?", "a": "Foto's maken zonder flits, statief of selfiestick is toegestaan in vrijwel alle zalen. Houd rekening met andere bezoekers en blijf weg van de schilderijen."},
+      {"q": "Hoe lang duurt een bezoek?", "a": "Voor een volledig bezoek met audiotour reken op 2-3 uur. Een snel bezoek met de hoogtepunten in 1,5 uur. Voor wie alle wissel tentoonstellingen erbij doet kan een bezoek 4 uur duren."}
+    ]
+  },
+  "mosaqua": {
+    "openingstijden": "Mosaqua in Gulpen is jaarrond geopend, dagelijks van 10:00 tot 21:00 uur (kortere openstelling op zondag). Voor vrijzwemmen geldt een online ticketsysteem; voor banenzwemmen aparte tijden en tarieven.",
+    "transport_ov": "Vanaf NS-station Maastricht of Heerlen rijdt bus 50 naar Gulpen, in ongeveer 40 minuten. Mosaqua ligt op 5 minuten lopen van de bushalte. Vanaf Maastricht is dit het meest praktisch.",
+    "transport_auto": "Mosaqua ligt aan de Sportlaan in Gulpen, vlakbij de N278 tussen Maastricht en Vaals. Vanuit Maastricht ben je er in 25 minuten, vanuit Heerlen in 30 minuten. Parkeren is gratis bij het zwembad.",
+    "beste_tijd": "Doordeweekse middagen en avonden zijn het rustigst. In de zomervakantie en op regenachtige zaterdagen is het duidelijk drukker. Het buitenbad is in juli en augustus open en op zonnige dagen erg populair.",
+    "tips": [
+      "Online ticket via mosaqua.nl is verplicht voor vrijzwemmen — geen kassakaartjes meer.",
+      "Het buitenbad is in juli en augustus open — ideaal voor warme zomerdagen.",
+      "Mosaqua is een van de voordeligste subtropische zwemparadijzen van Nederland — €14,50 voor een hele dag is uitzonderlijk.",
+      "Combineer met een wandeling in het mooie Heuvelland (Gulpen ligt midden in zuid-Limburg).",
+      "Voor jonge kinderen is het peuterbad en het kinderbad ideaal; voor tieners de glijbanen."
+    ],
+    "faq": [
+      {"q": "Is online reserveren verplicht bij Mosaqua?", "a": "Voor vrijzwemmen ja, je kunt geen kassatickets meer kopen. Boek vooraf via mosaqua.nl. Voor banenzwemmen (apart aanbod) gelden andere tijden en tarieven; ook online te reserveren."},
+      {"q": "Wat is het verschil tussen vrijzwemmen en banenzwemmen?", "a": "Vrijzwemmen is recreatief zwemmen in alle baden, met glijbanen en het golfslagbad. Banenzwemmen is in een afgescheiden bad voor wie kilometers wil maken; rustigere sfeer."},
+      {"q": "Is het buitenbad altijd open?", "a": "Het buitenbad is alleen open van eind juni tot eind augustus, en alleen bij goed weer (vanaf circa 20 graden). Op koude of regenachtige zomerdagen kan het gesloten zijn."},
+      {"q": "Mag ik eigen eten meenemen?", "a": "Eigen eten in het zwembadgebied is meestal niet toegestaan. Er is een snackbar bij Mosaqua. Tip: gebruik de zwembadingang om in/uit te lopen en eet buiten."},
+      {"q": "Is Mosaqua geschikt voor jonge kinderen?", "a": "Zeer geschikt — er is een afgescheiden peuterbad met fontijntjes, een kinderbad en de kleinere glijbanen. Voor de grotere glijbanen geldt een minimumlengte."}
+    ]
+  },
+  "splesj": {
+    "openingstijden": "Waterspeelpark Splesj in Hoeven is geopend van eind april tot eind september, dagelijks van 10:00 tot 17:00 of 18:00 uur. In de zomervakantie soms langer geopend. Het park is alleen in het zomerseizoen open.",
+    "transport_ov": "Vanaf NS-station Etten-Leur of Roosendaal rijdt bus 116 of 117 in 20-30 minuten naar Hoeven. Vanaf Splesj is het 10 minuten lopen vanaf de bushalte.",
+    "transport_auto": "Splesj ligt aan de Bosschendijk in Hoeven, vlakbij de A58 (afslag Etten-Leur). Vanuit Breda ben je er in 20 minuten, vanuit Rotterdam in 45 minuten. Parkeren is gratis bij het park.",
+    "beste_tijd": "Splesj is een buitenpark, dus afhankelijk van het weer. Zonnige doordeweekse dagen in mei, juni en september zijn ideaal: warm genoeg voor het water en relatief rustig. De zomervakantie is duidelijk drukker.",
+    "tips": [
+      "Splesj is een echt waterspeelpark — bijna alle attracties zijn watergerelateerd; neem voldoende reservekleding.",
+      "Het park is een van de oudste openluchtwaterparken van Nederland (sinds 1978) — gezellige nostalgie.",
+      "Combineer met een verblijf op de naastgelegen Molecaten-camping voor een complete zomerse uitje.",
+      "Parkeren is gratis — een groot voordeel boven veel andere parken.",
+      "Online tickets via molecaten.nl zijn meestal voordeliger dan de kassaprijs van €20."
+    ],
+    "faq": [
+      {"q": "Is Splesj overdekt of buiten?", "a": "Splesj is volledig in de openlucht. Bij regen of koud weer is een bezoek niet leuk — kies een zonnige dag, vooral in mei, juni, juli of augustus."},
+      {"q": "Voor welke leeftijd is Splesj geschikt?", "a": "Splesj is geschikt voor kinderen vanaf circa 2 jaar tot 12 jaar. Veel waterspeelelementen, kleine glijbanen en spuitwater zijn ideaal voor jonge kinderen. Voor tieners is het aanbod beperkt."},
+      {"q": "Mag ik mijn eigen eten meenemen?", "a": "Ja, een eigen lunchpakket meebrengen is welkom. Er zijn picknickplekken in het park. Daarnaast is er een snackbar voor wie ter plaatse wil eten."},
+      {"q": "Wat is uniek aan Splesj?", "a": "Splesj is het oudste openluchtwaterpark van Nederland, geopend in 1978. Het combineert waterspeel met een zandstrand, glijbanen en een waterspeeltuin — een unieke combinatie van openlucht en water."},
+      {"q": "Is Splesj geschikt bij regen?", "a": "Niet ideaal — alle attracties zijn buiten. Bij lichte motregen kun je doorzwemmen, maar bij bewolkt of koud weer is een bezoek minder leuk. Volg de weersvoorspelling."}
+    ]
+  },
+  "hemelrijk": {
+    "openingstijden": "BillyBird Park Hemelrijk is geopend van eind april tot eind september, dagelijks van 10:00 tot 18:00 uur. In juli en augustus iets langer geopend. Het park is alleen in het zomerseizoen open; in de winter gesloten.",
+    "transport_ov": "Vanaf NS-station Veghel of Uden rijdt bus 51 of 158 in 20-30 minuten naar Volkel. Hemelrijk is op 10 minuten lopen vanaf de bushalte. OV-bereikbaarheid is beperkt; auto is veel praktischer.",
+    "transport_auto": "Hemelrijk ligt aan de Erpsestraat in Volkel, vlakbij de A50 (afslag Veghel of Uden). Vanuit Eindhoven ben je er in 30 minuten, vanuit Den Bosch in 25 minuten. Parkeren is gratis bij het park.",
+    "beste_tijd": "Zonnige doordeweekse dagen in mei, juni en september zijn ideaal: warm genoeg voor het waterpark en relatief rustig. De zomervakantie is duidelijk drukker; ga 's ochtends voor de drukte.",
+    "tips": [
+      "Hemelrijk combineert speeltuin + waterpark + zandstrand — alles voor één prijs.",
+      "Parkeren is gratis bij Hemelrijk — een welkom voordeel.",
+      "Voor jonge kinderen is dit een prachtige uitvalsbasis; voor tieners is het aanbod beperkt.",
+      "Combineer met een wandeling door de Maasheggen of een bezoek aan de Maashorst.",
+      "Online tickets via billybird.nl zijn meestal voordeliger dan kassa — vroegboekkortingen oplettend."
+    ],
+    "faq": [
+      {"q": "Wat is BillyBird Hemelrijk?", "a": "BillyBird Park Hemelrijk is een combinatiepark met een waterspeeltuin (Aquapark), een grote droge speeltuin, een zandstrand met meer en glijbanen. Het is een van de grootste aquaparken van Nederland."},
+      {"q": "Voor welke leeftijd is Hemelrijk geschikt?", "a": "Hemelrijk is geschikt voor kinderen vanaf circa 2 jaar tot 12 jaar. De combinatie van waterspelen, klimrekken en zandstrand werkt vooral voor 4-10 jarigen perfect."},
+      {"q": "Is Hemelrijk bij regen geopend?", "a": "Hemelrijk is volledig buiten — bij regen blijft het geopend maar is een bezoek niet aangenaam. Volg de weersvoorspelling. Bij koud weer (onder 17 graden) is het water te koud voor de meeste kinderen."},
+      {"q": "Mag ik eigen eten meenemen?", "a": "Ja, een eigen lunchpakket meebrengen is welkom. Er zijn picknickplekken en barbecueplekken (op aanvraag). Daarnaast snackbars in het park."},
+      {"q": "Hoe lang duurt een bezoek?", "a": "Voor een complete dag reken op 5-7 uur. Met jonge kinderen die graag spelen kun je een hele dag vullen tussen water, speeltuin en strand."}
+    ]
+  },
+  "tropiqua": {
+    "openingstijden": "Tropiqua in Veendam is jaarrond geopend, dagelijks van 10:00 tot 20:00 of 21:00 uur. Op zondag iets kortere tijden. Voor vrijzwemmen geen reservering nodig.",
+    "transport_ov": "Vanaf NS-station Veendam loop je in 10-15 minuten naar Tropiqua of pak je bus 8. Veendam is met de stoptrein vanaf Groningen in 30 minuten bereikbaar.",
+    "transport_auto": "Tropiqua ligt aan de Lloydsweg in Veendam. Vanuit Groningen ben je er in 30 minuten, vanuit Assen in 25 minuten. Parkeren is gratis bij Tropiqua — een prettig voordeel.",
+    "beste_tijd": "Doordeweekse middagen en avonden zijn het rustigst. In schoolvakanties is het 's middags vaak druk maar 's avonds (na 18:00) weer rustig. Tropiqua is jaarrond geopend, ook in de winter.",
+    "tips": [
+      "Tropiqua is een van de voordeligste subtropische zwemparadijzen van Nederland — €7,25 is een uitzonderlijk lage prijs.",
+      "Parkeren is gratis — combineer met de lage entree voor een betaalbaar dagje uit.",
+      "Het park is relatief klein vergeleken met Aqua Mundo of Tikibad, maar voor een dagje zwemmen meer dan voldoende.",
+      "Voor jonge kinderen is het peuterbad en het kinderbad ideaal.",
+      "Online tickets via tropiqua.nl zijn doorgaans gelijk aan de kassaprijs; het zwembad heeft een vaste lage prijs."
+    ],
+    "faq": [
+      {"q": "Hoe duur is Tropiqua?", "a": "Een dagticket kost €7,25 (volwassene), wat het tot een van de voordeligste subtropische zwemparadijzen van Nederland maakt. Parkeren is daarbij gratis — voor een gezin van vier ben je dus zo'n €29 kwijt voor een hele dag zwemmen."},
+      {"q": "Is Tropiqua geschikt voor jonge kinderen?", "a": "Ja, met een peuterbad, kinderbad, kleine glijbanen en spuitelementen is Tropiqua perfect voor jonge kinderen. Voor de grotere glijbanen geldt een minimumlengte."},
+      {"q": "Heeft Tropiqua een sauna?", "a": "Ja, Tropiqua heeft een aparte saunaruimte tegen meerprijs. Voor wie alleen wil zwemmen volstaat het reguliere ticket."},
+      {"q": "Mag ik mijn eigen eten meenemen?", "a": "Eten in het zwembadgebied is meestal niet toegestaan; er is een snackbar in het park. Voor een snackpauze kun je het bad verlaten en buiten eten."},
+      {"q": "Is Tropiqua bereikbaar met OV?", "a": "Ja, vanaf NS-station Veendam is het 10-15 minuten lopen of 5 minuten met bus 8. Vanaf Groningen is dat in 40-45 minuten."}
+    ]
+  },
+  "aquafun": {
+    "openingstijden": "AquaFun Sportiom in 's-Hertogenbosch is jaarrond geopend, dagelijks van 10:00 tot 21:00 of 22:00 uur. Op zondag iets later open. Reserveren niet verplicht voor vrijzwemmen.",
+    "transport_ov": "Vanaf NS-station 's-Hertogenbosch rijdt bus 90 of 91 in 10-15 minuten naar Sportiom. Den Bosch is met de IC vanuit Amsterdam, Utrecht en Eindhoven goed bereikbaar.",
+    "transport_auto": "AquaFun Sportiom ligt aan de Sportiomlaan in 's-Hertogenbosch, vlakbij de A2 (afslag Den Bosch-Zuid). Parkeren is gratis bij Sportiom — een welkom voordeel.",
+    "beste_tijd": "Doordeweekse middagen en avonden zijn het rustigst. Op zaterdagen is het bad in de winter populair bij families uit de regio. Bij regenachtige weekenden loopt het verkeer flink op.",
+    "tips": [
+      "AquaFun is een van de grootste zwemparadijzen van Nederland — meer dan 1.000 m² wateroppervlak.",
+      "Turtle Bay is speciaal voor de kleinste kinderen — peuterbad met spuitwater.",
+      "De wildwaterbaan en grote glijbanen zijn populair bij tieners en jonge volwassenen.",
+      "Parkeren is gratis — een groot voordeel voor een uitje in 's-Hertogenbosch.",
+      "Online tickets via sportiom.sportfondsen.nl zijn doorgaans iets goedkoper dan kassa."
+    ],
+    "faq": [
+      {"q": "Wat maakt AquaFun bijzonder?", "a": "AquaFun in Sportiom is een van de grootste zwemparadijzen van Nederland, met meerdere themabaden, wildwaterbaan, grote glijbanen, golfslagbad en een speciaal kinderbad (Turtle Bay). De diversiteit van baden is uitzonderlijk."},
+      {"q": "Is AquaFun geschikt voor jonge kinderen?", "a": "Ja, Turtle Bay is specifiek voor peuters en jonge kinderen, met spuitwater en kleine glijbaantjes. Voor de grotere glijbanen geldt een minimumlengte; de meeste vanaf 6-8 jaar."},
+      {"q": "Mag ik eigen eten meenemen?", "a": "Eten in het zwembadgebied is meestal niet toegestaan. Er is een restaurant in Sportiom en snackbars. Voor een uitgebreidere lunch kun je het bad verlaten en in Den Bosch eten."},
+      {"q": "Hoe lang kan ik in AquaFun blijven?", "a": "Een dagticket geeft toegang tot het reguliere bad voor de hele dag. Banenzwemmen en sauna hebben aparte tijden en tarieven."},
+      {"q": "Heeft AquaFun ook een buitenbad?", "a": "Nee, AquaFun is volledig overdekt — ideaal voor regenachtige dagen en jaarrond zwemmen. Voor buitenbaden zijn andere zwembaden in de regio te overwegen."}
+    ]
+  },
+  "preston-palace": {
+    "openingstijden": "Riviera (het zwemparadijs van Preston Palace in Almelo) is jaarrond geopend, dagelijks van 11:00 tot 19:00 of 20:00 uur. Voor daggasten reserveren verplicht; verblijfsgasten van het all-in resort kunnen onbeperkt zwemmen.",
+    "transport_ov": "Vanaf NS-station Almelo loop je in 10-15 minuten of pak je bus 1 of 6 voor 2-3 haltes. Almelo is met de IC vanuit Zwolle en Hengelo goed bereikbaar.",
+    "transport_auto": "Preston Palace ligt aan de Lodewijk Asscherstraat in Almelo, vlakbij de A35. Vanuit Hengelo ben je er in 15 minuten, vanuit Zwolle in 1 uur. Parkeren is gratis op het Preston Palace-terrein.",
+    "beste_tijd": "Doordeweekse middagen en avonden zijn het rustigst. In de zomervakantie en kerstvakantie is het zwembad populair bij families. Verblijfsgasten van het all-in resort hebben altijd voorrang bij reserveringen.",
+    "tips": [
+      "Het ticket van €21,50 is voor daggasten; verblijfsgasten van Preston Palace betalen niet apart.",
+      "Drankjes en fruit zijn inbegrepen in het dagticket — uniek concept voor een zwemparadijs.",
+      "Reserveer als daggast vooraf — slots kunnen in vakanties vol zitten.",
+      "Combineer met een verblijf in het all-in resort voor een volledig verzorgd weekend.",
+      "Het zwembadthema is Polynesisch — palmbomen en exotische sfeer."
+    ],
+    "faq": [
+      {"q": "Wat is Preston Palace precies?", "a": "Preston Palace is een all-in resort in Almelo (hotel + zwembad + restaurants + entertainment). Het Riviera-zwembad is voor verblijfsgasten gratis en onbeperkt; daggasten kunnen los reserveren."},
+      {"q": "Wat zit er bij het daggasten-ticket inbegrepen?", "a": "Het dagticket van €21,50 geeft toegang tot het hele Riviera-zwembad inclusief drankjes (frisdrank, koffie, thee) en fruit. Alcohol en complete maaltijden zijn niet inbegrepen."},
+      {"q": "Is reserveren als daggast verplicht?", "a": "Ja, voor daggasten is reserveren verplicht via prestonpalace.eu. In vakanties zitten slots vaak vol; reserveer minimaal enkele dagen vooruit."},
+      {"q": "Is Riviera geschikt voor jonge kinderen?", "a": "Ja, er is een peuterbad, kinderbad en de hoofdbaden zijn voor jonge kinderen toegankelijk met begeleiding. Voor de grotere glijbanen geldt een minimumlengte (1,30 m)."},
+      {"q": "Hoe lang kan ik in Riviera blijven?", "a": "Als daggast kun je doorgaans 4-5 uur blijven binnen het gereserveerde slot. Verblijfsgasten kunnen onbeperkt in en uit tijdens het hele verblijf."}
+    ]
+  },
+  "aqua-mundo-eemhof": {
+    "openingstijden": "Aqua Mundo De Eemhof is jaarrond geopend, dagelijks van 10:00 tot 22:00 uur. Voor daggasten is reserveren verplicht; verblijfsgasten van het vakantiepark zwemmen onbeperkt.",
+    "transport_ov": "Vanaf NS-station Almere Centrum rijdt bus 152 in 30-40 minuten naar Zeewolde. Vanaf de bushalte in Zeewolde rijdt een lokale bus naar het Center Parcs-park. OV is voor De Eemhof beperkt; auto is veel praktischer.",
+    "transport_auto": "De Eemhof ligt aan de Strandweg in Zeewolde, vlakbij de A6 (afslag Zeewolde). Vanuit Amsterdam ben je er in 40 minuten, vanuit Utrecht in 1 uur. Parkeren is gratis bij De Eemhof.",
+    "beste_tijd": "Doordeweekse middagen buiten schoolvakanties zijn het rustigst en het voordeligst. In vakanties is De Eemhof druk omdat veel families verblijven; daggasten reserveer dan ruim vooruit.",
+    "tips": [
+      "Aqua Mundo De Eemhof is een van de grootste van Center Parcs — met meerdere golfslagbaden en glijbanen.",
+      "Daggasten reserveren minimaal enkele dagen vooruit; in vakanties wel een week vooruit.",
+      "Verblijfsgasten van een bungalow op De Eemhof zwemmen onbeperkt — vaak voordeliger dan losse dagtickets.",
+      "Parkeren is gratis op het Center Parcs-terrein.",
+      "Combineer met een wandeling of fietstocht door het Horsterwold (naast het park)."
+    ],
+    "faq": [
+      {"q": "Wat is uniek aan Aqua Mundo De Eemhof?", "a": "De Eemhof heeft een van de grootste Aqua Mundo's, met onder andere een groot golfslagbad, wildwaterbaan, meerdere glijbanen en een buitenbad (in de zomer). De waterconventie is uniek in Center Parcs Nederland."},
+      {"q": "Kan ik als daggast Aqua Mundo bezoeken?", "a": "Ja, je kunt als daggast een ticket boeken via centerparcs.nl. Reserveren met tijdslot is verplicht. De prijs ligt rond €32 (volwassene); aanzienlijk hoger in vakantieperiodes."},
+      {"q": "Is De Eemhof geschikt voor jonge kinderen?", "a": "Zeer geschikt — er is een afgescheiden peuterbad, kinderbad en de meerdere glijbanen zijn ook voor kinderen vanaf 6 jaar toegankelijk. De Eemhof is familievriendelijk ingericht."},
+      {"q": "Mag ik eigen eten meenemen?", "a": "Eigen eten in het Aqua Mundo-gebied is meestal niet toegestaan. Er is een restaurant en snackbar in het zwemgebied. Voor verblijfsgasten is eten in de bungalow vaak praktischer."},
+      {"q": "Heeft De Eemhof ook buiten zwembad?", "a": "Ja, in de zomer is er een buitenbad open (juni-september). Bij koud of regenachtig weer is het buitenbad gesloten. Het binnenzwembad is jaarrond open."}
+    ]
+  },
+  "openluchtmuseum": {
+    "openingstijden": "Het Nederlands Openluchtmuseum is geopend van begin april tot eind oktober, dagelijks van 10:00 tot 17:00 uur. In de zomer iets langer geopend. Tijdens kerstvakantie (winterprogramma) ook open. Maandag soms gesloten buiten vakanties.",
+    "transport_ov": "Vanaf NS-station Arnhem Centraal rijdt trolleybus 8 in 10 minuten direct naar het museum. Vanaf Amsterdam reken op 1 uur en 5 minuten reizen.",
+    "transport_auto": "Het Openluchtmuseum ligt aan de Hoeferlaan in Arnhem, ten noorden van het centrum. Vanuit Utrecht ben je er in 50 minuten. Parkeren kost €5 per dag — vriendelijk geprijsd.",
+    "beste_tijd": "Doordeweeks in mei, juni en september ben je het rustigst en het mooist (alles bloeiend). Het museum is groot — een hele dag is comfortabel. Bij regen blijven de boerderijen, huizen en werkplaatsen prima te bezoeken (binnen).",
+    "tips": [
+      "Reken op een volledige dag (5-7 uur) — het museum is groot en je wandelt door vijf eeuwen Nederland.",
+      "De stoomtram is gratis bij je ticket en geeft een snelle eerste rondrit.",
+      "Begin bij de boerderijen aan de oostkant en werk je naar het westen — minder druk.",
+      "Met de Museumkaart is het museum gratis — interessant voor gezinnen die meerdere musea bezoeken.",
+      "Combineer met een bezoek aan Burgers' Zoo (vlakbij) voor een complete Arnhem-dag."
+    ],
+    "faq": [
+      {"q": "Wat is het Openluchtmuseum?", "a": "Het Nederlands Openluchtmuseum is een groot museum in Arnhem waar je door 80 historische gebouwen wandelt — boerderijen, molens, kerken, scholen — uit verschillende eeuwen en regio's van Nederland. Het is een levend museum met acteurs in historische rollen."},
+      {"q": "Hoe lang heb je nodig voor het Openluchtmuseum?", "a": "Voor een complete bezoek reken op 5-7 uur. Voor een snel bezoek met de hoogtepunten kun je in 3-4 uur klaar zijn. Het museum is enorm — weinig mensen zien alles."},
+      {"q": "Is het Openluchtmuseum geschikt voor kinderen?", "a": "Zeer geschikt vanaf circa 4 jaar. De acteurs in historische kleding, de stoomtram, de molens en de oude scholen spreken kinderen aan. Er zijn ook speelplekken en doe-activiteiten."},
+      {"q": "Is het museum bij regen leuk?", "a": "Bij regen kun je de boerderijen, huizen en werkplaatsen binnenkomen — een groot deel van het bezoek blijft mogelijk. Voor een complete buitenervaring kies bij voorkeur een droge dag."},
+      {"q": "Mag ik eigen eten meenemen?", "a": "Ja, een eigen lunchpakket meebrengen is welkom. Er zijn vele picknickplekken verspreid over het museum. Daarnaast zijn er historische cafés en eetgelegenheden."}
+    ]
+  },
+  "anne-frank": {
+    "openingstijden": "Het Anne Frank Huis is jaarrond geopend, dagelijks van 9:00 tot 22:00 uur. Op feestdagen wel met aangepaste tijden. Tickets uitsluitend online en in beperkte oplage per week — boek minimaal 6-8 weken vooruit.",
+    "transport_ov": "Het Anne Frank Huis ligt aan de Prinsengracht in Amsterdam-Centrum. Vanaf Amsterdam Centraal loop je in 15 minuten of pak je tram 13, 14 of 17 (uitstappen halte Westermarkt).",
+    "transport_auto": "Het Anne Frank Huis heeft geen eigen parkeergelegenheid. Parkeren in Amsterdam-Centrum kost €7,50 per uur en is schaars. Gebruik P+R Zeeburg of P+R Olympic Stadium (€8 per dag inclusief OV).",
+    "beste_tijd": "Tickets zijn meestal binnen enkele minuten na release uitverkocht. Het museum geeft elke dinsdag om 10:00 nieuwe tickets vrij voor zes weken later. Wees vroeg en heb meerdere tijdsloten als alternatief gereed.",
+    "tips": [
+      "Reserveer minimaal 6-8 weken vooruit — tickets zijn binnen minuten uitverkocht.",
+      "Het museum geeft elke dinsdag om 10:00 nieuwe tickets vrij voor zes weken later — wees stipt online.",
+      "De gratis Anne Frank-app met audiotour is uitstekend en sterk aanbevolen.",
+      "Reken op 1,5-2 uur voor een complete bezoek; het is een emotionele ervaring.",
+      "De prijs is €16,50 (volwassen); kinderen tot en met 9 jaar gratis, 10-17 jaar €7,50."
+    ],
+    "faq": [
+      {"q": "Waarom is het zo moeilijk om tickets te krijgen?", "a": "Het Anne Frank Huis heeft een beperkte capaciteit (om bezoekers niet te overweldigen in de kleine ruimtes) en is wereldwijd populair. Tickets gaan zes weken vooruit in een batch in verkoop — meestal binnen minuten uitverkocht. Plannen is essentieel."},
+      {"q": "Is het Anne Frank Huis geschikt voor kinderen?", "a": "Vanaf circa 10 jaar is het zinvol — kinderen kunnen dan de geschiedenis begrijpen. Voor jongere kinderen kan de zware emotionele lading te veel zijn. De museumgids biedt een speciaal kindertraject."},
+      {"q": "Hoe lang duurt een bezoek?", "a": "Een bezoek duurt 1,5 tot 2 uur, inclusief de audiotour. Er is geen vaste route; je beweegt op je eigen tempo door het Achterhuis en de bijgebouwen."},
+      {"q": "Mag ik foto's maken in het Anne Frank Huis?", "a": "Foto's en filmen zijn helaas niet toegestaan in het Anne Frank Huis, uit respect voor de gevoelige aard van de plek en uit privacy-overwegingen."},
+      {"q": "Is het Anne Frank Huis gratis met de Museumkaart?", "a": "Ja, met de Museumkaart is de toegang gratis, maar je moet nog steeds online reserveren — slots zijn dezelfde voor iedereen. Het 'gratis' geldt alleen voor de ticketprijs."}
+    ]
+  },
+  "madame-tussauds": {
+    "openingstijden": "Madame Tussauds Amsterdam is jaarrond geopend, dagelijks van 10:00 tot 19:00 of 20:00 uur. Op feestdagen aangepaste tijden mogelijk. Reserveren online met tijdslot aanbevolen om wachtrijen te vermijden.",
+    "transport_ov": "Madame Tussauds ligt aan de Dam in Amsterdam-Centrum. Vanaf Amsterdam Centraal loop je in 10 minuten of pak je tram 2, 12 of 13. Door de centrale ligging is het uit elke richting in het land snel te bereiken.",
+    "transport_auto": "Madame Tussauds heeft geen eigen parkeerplaats. Parkeren in Amsterdam-Centrum kost €7,50 per uur en is schaars. Gebruik P+R Zeeburg of P+R Olympic Stadium (€8 per dag inclusief OV).",
+    "beste_tijd": "Doordeweekse ochtenden direct na opening zijn het rustigst. Vermijd weekenden in de zomer — Madame Tussauds is dan vol met internationale toeristen. Boek online voor de beste prijs en geen wachtrij.",
+    "tips": [
+      "Online reserveren via madametussauds.com bespaart 15-25% vergeleken met de kassaprijs.",
+      "Combineer met Madame Tussauds + Royal Palace (vlakbij) voor een complete Dam-uitje.",
+      "Reken op 1,5-2 uur voor een volledig bezoek; geen al te lang museum.",
+      "Voor selfies met sterren is een rustige doordeweekse ochtend het beste — bij drukte snel doorlopen.",
+      "Kinderen vinden vooral de Marvel- en Disney-figuren leuk; voor jongere kinderen (onder 6) minder interessant."
+    ],
+    "faq": [
+      {"q": "Wat is Madame Tussauds?", "a": "Madame Tussauds is een wereldwijde keten van wassenbeeldenmusea. De Amsterdam-vestiging heeft levensgrote wassen beelden van royals, sterren, politici en superhelden. Je kunt vrij rondlopen en foto's maken met de beelden."},
+      {"q": "Voor welke leeftijd is Madame Tussauds geschikt?", "a": "Vanaf circa 6 jaar leuk; voor jongere kinderen zijn de beelden soms onheimisch of te statisch. Marvel-superhelden en Disney-figuren spreken vooral kinderen vanaf 6-7 jaar aan."},
+      {"q": "Hoe lang duurt een bezoek?", "a": "Een bezoek duurt doorgaans 1,5 tot 2 uur. Met veel foto's en interactie met de beelden kun je er iets langer over doen. Geen al te lang museum."},
+      {"q": "Mag ik foto's maken?", "a": "Ja, foto's maken met de beelden is juist hét concept van Madame Tussauds. Selfies met sterren, royals en sporters zijn een hoogtepunt voor veel bezoekers."},
+      {"q": "Werkt Madame Tussauds met dynamische prijzen?", "a": "Ja, online ben je vrijwel altijd voordeliger uit dan aan de kassa (€27 kassaprijs). Vroegboekkortingen en combideals met andere attracties (Heineken Experience, Body Worlds) kunnen extra besparing opleveren."}
+    ]
+  },
+  "corpus": {
+    "openingstijden": "CORPUS is geopend van dinsdag tot en met zondag van 9:30 tot 18:00 uur. Op maandag gesloten (uitgezonderd schoolvakanties). Op eerste kerstdag en nieuwjaarsdag gesloten. Reserveren met tijdslot verplicht.",
+    "transport_ov": "Vanaf NS-station Leiden Centraal rijdt buslijn 50 in ongeveer 10-15 minuten naar de halte CORPUS. Leiden is met de IC vanuit Amsterdam (35 minuten) en Den Haag (15 minuten) snel bereikbaar.",
+    "transport_auto": "CORPUS ligt aan de Willem Einthovenstraat in Oegstgeest, vlakbij de A44. Vanuit Amsterdam ben je er in 35 minuten, vanuit Den Haag in 20 minuten. Parkeren is gratis bij CORPUS — een prettige bijkomstigheid.",
+    "beste_tijd": "Doordeweekse ochtenden direct na opening zijn het rustigst. CORPUS werkt met tijdsloten — boek vooraf voor de gewenste tijd. In schoolvakanties is reserveren ruim vooruit aanbevolen.",
+    "tips": [
+      "CORPUS is een tour van circa 55 minuten — je krijgt een audiogeleidende route door het menselijk lichaam.",
+      "Reserveren is verplicht — kies een tijdslot online.",
+      "De minimumleeftijd is 6 jaar; jongere kinderen worden niet toegelaten omdat de tour vrij intens kan zijn.",
+      "Na de tour is er een aanvullende expositie met interactieve doe-experimenten — neem hier ook de tijd voor.",
+      "Parkeren is gratis — een welkom voordeel boven veel andere attracties in de Randstad."
+    ],
+    "faq": [
+      {"q": "Wat is CORPUS?", "a": "CORPUS is een unieke attractie waarbij je een tour van circa 55 minuten maakt door een 35 meter hoog gebouw in de vorm van het menselijk lichaam. Je begint bij de knie en stijgt op door de organen, met interactieve elementen, geluid en geur."},
+      {"q": "Vanaf welke leeftijd is CORPUS geschikt?", "a": "De minimumleeftijd is 6 jaar — jongere kinderen worden niet toegelaten omdat de tour soms intens kan zijn (geluid, donker, beweging). Voor kinderen vanaf 8-10 jaar is het ideaal."},
+      {"q": "Hoe lang duurt een bezoek?", "a": "De tour zelf duurt circa 55 minuten. Met de aanvullende expositie reken op 2-2,5 uur. Het museum is compacter dan een groot museum maar zeer intensief."},
+      {"q": "Is CORPUS geschikt voor mensen met claustrofobie?", "a": "De tour gaat door enkele nauwere ruimtes — voor mensen met sterke claustrofobie kan dit lastig zijn. Bij twijfel raadpleeg de website voor een gedetailleerde routebeschrijving."},
+      {"q": "Mag ik foto's maken tijdens de tour?", "a": "Foto's maken tijdens de tour is doorgaans niet toegestaan — de tour heeft veel licht-en-geluidseffecten waarop flits storend werkt. In de aanvullende expositie wel."}
+    ]
+  },
+  "mauritshuis": {
+    "openingstijden": "Het Mauritshuis is jaarrond geopend, dinsdag tot en met zondag van 10:00 tot 18:00 uur, op donderdag tot 20:00 uur. Op maandag soms gesloten buiten vakanties. Op eerste kerstdag en nieuwjaarsdag gesloten.",
+    "transport_ov": "Het Mauritshuis ligt aan het Plein in Den Haag-Centrum. Vanaf NS-station Den Haag Centraal loop je in 5-10 minuten of pak je tram 2, 6 of 17. Den Haag is uitstekend bereikbaar uit het hele land via NS.",
+    "transport_auto": "Het Mauritshuis heeft geen eigen parkeerplaats. Parkeergarage Plein (5 minuten lopen) of Pleingarage zijn de dichtstbijzijnde opties. Gebruik bij voorkeur P+R Hoornwijck of P+R Forepark (€7,50 per dag inclusief OV).",
+    "beste_tijd": "Doordeweekse ochtenden direct na opening zijn het rustigst. Het Mauritshuis is internationaal populair vanwege Vermeer; vermijd weekenden in zomer en vakanties als je rustig wilt rondkijken.",
+    "tips": [
+      "Vermeers Meisje met de Parel is het iconische pronkstuk — bekijk dit op een rustige doordeweekse ochtend.",
+      "Reken op 1,5-2 uur voor een volledig bezoek; het museum is compact maar zeer rijk.",
+      "Combineer met een wandeling langs het Binnenhof en de Grote Markt voor een complete Den Haag-dag.",
+      "Met de Museumkaart is het Mauritshuis gratis — interessant in combinatie met andere musea.",
+      "Online tickets via mauritshuis.nl zijn gelijk aan de kassaprijs, maar je vermijdt wachtrijen."
+    ],
+    "faq": [
+      {"q": "Wat is het bekendste schilderij in het Mauritshuis?", "a": "Het Mauritshuis is wereldberoemd vanwege Vermeers Meisje met de Parel (circa 1665). Andere hoogtepunten zijn Rembrandts Anatomische les van Dr. Tulp, Het Puttertje van Fabritius en Vermeers Gezicht op Delft."},
+      {"q": "Is het Mauritshuis geschikt voor kinderen?", "a": "Vanaf circa 7-8 jaar leuk, vooral met de kinder-audiotour. Het museum is compact en niet te overweldigend voor kinderen. Voor jonge kinderen onder 6 kan een bezoek aan veel schilderijen te lang zijn."},
+      {"q": "Hoe lang duurt een bezoek?", "a": "Voor een volledig bezoek reken op 1,5 tot 2 uur. Het museum is compact (16 zalen) maar de kwaliteit per schilderij is uitzonderlijk hoog; neem de tijd voor de hoogtepunten."},
+      {"q": "Mag ik foto's maken in het Mauritshuis?", "a": "Ja, foto's maken zonder flits, statief of selfiestick is toegestaan in vrijwel alle zalen. Houd rekening met andere bezoekers."},
+      {"q": "Werkt het Mauritshuis met vaste prijzen?", "a": "Ja, de toegang is €19,50 (volwassen) jaarrond. Met de Museumkaart is het gratis. Het museum heeft geen dynamische prijzen — de prijs is voorspelbaar."}
+    ]
+  }
+}

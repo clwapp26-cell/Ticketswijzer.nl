@@ -24,11 +24,11 @@ burgers-zoo,Burgerszoo.nl online,28.00,datumticket,https://www.burgerszoo.nl/res
 burgers-zoo,Tripper actie,24.00,actie,https://www.tripper.nl/deal/entreeticket-burgers-zoo-korting
 artis,Standaard,29.50,flexibel,https://dagtickets.artis.nl/
 artis,ARTIS online (regulier),26.50,datumticket,https://dagtickets.artis.nl/
-ouwehands,Zonder datum,30.50,flexibel,https://www.ouwehand.nl/nl/bestel-tickets
-ouwehands,Ouwehand.nl datumticket,27.50,datumticket,https://www.ouwehand.nl/nl/bestel-tickets
-ouwehands,Dinsdagdeal,24.00,actie,https://www.ouwehand.nl/nl/bestel-tickets
-beekse-bergen,Aan de poort,32.50,flexibel,https://www.beeksebergen.nl/korting
-beekse-bergen,Beeksebergen.nl online,28.50,datumticket,https://www.beeksebergen.nl/korting
+ouwehands,Zonder datum,30.50,flexibel,aff:ouwehands:https://www.ouwehand.nl/nl/bestel-tickets
+ouwehands,Ouwehand.nl datumticket,27.50,datumticket,aff:ouwehands:https://www.ouwehand.nl/nl/bestel-tickets
+ouwehands,Dinsdagdeal,24.00,actie,aff:ouwehands:https://www.ouwehand.nl/nl/bestel-tickets
+beekse-bergen,Aan de poort,32.50,flexibel,aff:beekse-bergen:https://www.beeksebergen.nl/korting
+beekse-bergen,Beeksebergen.nl online,28.50,datumticket,aff:beekse-bergen:https://www.beeksebergen.nl/korting
 beekse-bergen,Tripper actie,21.35,actie,https://www.tripper.nl/deal/entree-ticket-safaripark-beekse-bergen-korting
 dolfinarium,Aan de poort,29.00,flexibel,https://tickets.dolfinarium.nl/
 dolfinarium,Dolfinarium.nl online,19.00,datumticket,https://tickets.dolfinarium.nl/

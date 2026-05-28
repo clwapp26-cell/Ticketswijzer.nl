@@ -1,0 +1,23 @@
+{
+  "_doc": [
+    "Daisycon affiliate-config voor TicketsWijzer.",
+    "",
+    "ZO ZET JE LINKS LIVE (1 wijziging):",
+    "  1. Programma's goedgekeurd in Daisycon? Vul hieronder 'media_id' in met jouw",
+    "     Daisycon media-/website-ID (een getal, te vinden in Daisycon > Media).",
+    "  2. Controleer 'deeplink_template' tegen de Daisycon deeplink-generator",
+    "     (Materiaal > Deeplink). Plak desnoods de exacte basis-URL hier.",
+    "  3. Draai:  python gen/build_all.py",
+    "",
+    "Tokens in de template: {MEDIA_ID} = jouw media-ID, {PROGRAM_ID} = programma-ID,",
+    "{TARGET} = de bestemmings-URL (wordt automatisch url-encoded).",
+    "",
+    "Zolang media_id op '{MEDIA_ID}' staat, zijn de links PLACEHOLDERS (nog niet live)."
+  ],
+  "media_id": "{MEDIA_ID}",
+  "deeplink_template": "https://td.daisycon.io/click/?ti={MEDIA_ID}&mid={PROGRAM_ID}&url={TARGET}",
+  "programs": {
+    "ouwehands": { "program_id": "16414", "name": "Ouwehands Dierenpark", "display_url": "www.ouwehand.nl" },
+    "beekse-bergen": { "program_id": "7569", "name": "Safaripark Beekse Bergen", "display_url": "www.beeksebergen.nl" }
+  }
+}
