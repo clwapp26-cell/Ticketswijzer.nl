@@ -25,6 +25,7 @@ DATA = os.path.join(ROOT, "data")
 SITE = os.path.join(DATA, "site.json")
 ATTR_CSV = os.path.join(DATA, "attractions.csv")
 OFFERS_CSV = os.path.join(DATA, "offers.csv")
+CONTENT_JSON = os.path.join(DATA, "content.json")
 OUT = os.path.join(DATA, "attractions.json")
 
 
@@ -47,6 +48,12 @@ def main():
 
     attr_rows = read_csv(ATTR_CSV)
     offer_rows = read_csv(OFFERS_CSV)
+
+    # optional: rich detail-page content keyed by attraction id
+    content_by_id = {}
+    if os.path.exists(CONTENT_JSON):
+        with open(CONTENT_JSON, encoding="utf-8") as f:
+            content_by_id = json.load(f)
 
     # group offers by attraction id
     offers_by_id = {}
@@ -71,7 +78,7 @@ def main():
         offers = offers_by_id.get(aid)
         if not offers:
             sys.exit(f"FOUT: geen offers gevonden voor '{aid}' in offers.csv")
-        attractions.append({
+        rec = {
             "id": aid,
             "naam": r["naam"].strip(),
             "cat": r["cat"].strip(),
@@ -83,7 +90,11 @@ def main():
             "bron": r.get("bron", "").strip(),
             "omschrijving": r["omschrijving"].strip(),
             "offers": offers,
-        })
+        }
+        # merge optional rich content (openingstijden, transport, tips, faq, etc.)
+        if aid in content_by_id:
+            rec["content"] = content_by_id[aid]
+        attractions.append(rec)
 
     # warn about ids that have offers but no attraction row
     orphans = set(offers_by_id) - seen
@@ -98,7 +109,8 @@ def main():
     }
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
-    print(f"Ingest klaar: {len(attractions)} attracties, {len(offer_rows)} offers -> {OUT}")
+    n_rich = sum(1 for a in attractions if a.get("content"))
+    print(f"Ingest klaar: {len(attractions)} attracties ({n_rich} met rich content), {len(offer_rows)} offers -> {OUT}")
 
 
 if __name__ == "__main__":

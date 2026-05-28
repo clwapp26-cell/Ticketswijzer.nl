@@ -17,9 +17,9 @@ static site:
 
 Every page also carries: a <link rel="canonical">, Open Graph/Twitter tags, and
 JSON-LD structured data (Product/AggregateOffer, BreadcrumbList, ItemList,
-Article, WebSite/Organization).
+Article, WebSite/Organization, TouristAttraction, FAQPage).
 
-Data workflow:  edit data/*.csv (+ data/hubs/*.html)
+Data workflow:  edit data/*.csv (+ data/hubs/*.html + data/content.json)
                 -> python3 ingest.py
                 -> python3 build.py
 """
@@ -46,6 +46,21 @@ EXTRA_CSS = """<style>
 .gids-card h3{margin:0 0 6px;font-size:16px}
 .gids-card p{margin:0;font-size:13px;color:var(--ink-soft);line-height:1.5}
 .related{margin-top:30px;padding-top:18px;border-top:1px solid var(--line);font-size:14px}
+.info-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px;margin:18px 0}
+.info-card{padding:18px;border:1px solid var(--line);border-radius:12px;background:#fff}
+.info-card h3{margin:0 0 8px;font-size:15px;color:#0e8f7e;display:flex;align-items:center;gap:6px}
+.info-card p{margin:0;line-height:1.6;font-size:14px;color:var(--ink)}
+.tips-list{margin:14px 0 14px 22px;line-height:1.7}
+.tips-list li{margin:8px 0}
+.faq-item{border:1px solid var(--line);border-radius:10px;margin:10px 0;background:#fff;overflow:hidden}
+.faq-item summary{padding:14px 18px;cursor:pointer;font-weight:600;list-style:none;display:flex;justify-content:space-between;align-items:center}
+.faq-item summary::-webkit-details-marker{display:none}
+.faq-item summary::after{content:"+";font-size:22px;color:#0e8f7e;font-weight:400}
+.faq-item[open] summary::after{content:"−"}
+.faq-item[open] summary{border-bottom:1px solid var(--line)}
+.faq-item .answer{padding:14px 18px;line-height:1.7;color:var(--ink)}
+.detail-section{margin:32px 0 0}
+.detail-section > h2{font-size:22px;margin:0 0 12px}
 </style>"""
 
 
@@ -94,6 +109,69 @@ def load_hubs():
 def ld_script(obj):
     # json.dumps is safe to embed in <script>; our content has no "</script>".
     return '<script type="application/ld+json">' + json.dumps(obj, ensure_ascii=False, separators=(",", ":")) + "</script>"
+
+
+def render_rich_content(a, cat):
+    """Render extended detail-page sections (openingstijden, transport, tips, FAQ).
+
+    Returns (html_block, jsonld_extra). Returns ('', '') if no content present.
+    The structured sections push the page well past 500 words (anti-thin-content).
+    """
+    c = a.get("content")
+    if not c:
+        return "", ""
+    parts = []
+    # Info-grid: opening hours + transport (OV/auto) + best time
+    cards = []
+    if c.get("openingstijden"):
+        cards.append(("\U0001F551 Openingstijden", c["openingstijden"]))
+    if c.get("transport_ov"):
+        cards.append(("\U0001F686 Met openbaar vervoer", c["transport_ov"]))
+    if c.get("transport_auto"):
+        cards.append(("\U0001F697 Met de auto &amp; parkeren", c["transport_auto"]))
+    if c.get("beste_tijd"):
+        cards.append(("\U0001F4C5 Wanneer is het voordeligst?", c["beste_tijd"]))
+    if cards:
+        grid = "".join(
+            f'<div class="info-card"><h3>{h}</h3><p>{esc(body)}</p></div>'
+            for h, body in cards
+        )
+        parts.append(
+            f'<section class="detail-section"><h2>Praktische informatie</h2>'
+            f'<div class="info-grid">{grid}</div></section>'
+        )
+    # Tips
+    tips = c.get("tips") or []
+    if tips:
+        items = "".join(f"<li>{esc(t)}</li>" for t in tips)
+        naam = esc(a["naam"])
+        parts.append(
+            f'<section class="detail-section"><h2>Bespaartips voor {naam}</h2>'
+            f'<ul class="tips-list">{items}</ul></section>'
+        )
+    # FAQ + FAQPage JSON-LD
+    faq = c.get("faq") or []
+    jsonld_extra = ""
+    if faq:
+        items = "".join(
+            f'<details class="faq-item"><summary>{esc(q["q"])}</summary>'
+            f'<div class="answer">{esc(q["a"])}</div></details>'
+            for q in faq
+        )
+        parts.append(
+            f'<section class="detail-section"><h2>Veelgestelde vragen</h2>{items}</section>'
+        )
+        faq_ld = {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {"@type": "Question", "name": q["q"],
+                 "acceptedAnswer": {"@type": "Answer", "text": q["a"]}}
+                for q in faq
+            ],
+        }
+        jsonld_extra = ld_script(faq_ld)
+    return "".join(parts), jsonld_extra
 
 
 def breadcrumb_ld(crumbs):
@@ -158,15 +236,21 @@ def card(a, cats, root):
     cat = cats[a["cat"]]
     save_badge = f'<span class="save">bespaar {eur(a["savings"])}</span>' if a["savings"] > 0 else ""
     strike = f'<span class="strike">{eur(a["kassa"])}</span>' if a["savings"] > 0 else ""
-    return f"""<a class="card" href="{root}attractie/{esc(a['id'])}.html"
-      data-cat="{esc(a['cat'])}" data-naam="{esc(a['naam'])}" data-plaats="{esc(a['plaats'])}"
+    aid = esc(a["id"])
+    acat = esc(a["cat"])
+    naam = esc(a["naam"])
+    plaats = esc(a["plaats"])
+    provincie = esc(a["provincie"])
+    label = esc(cat["label"])
+    return f"""<a class="card" href="{root}attractie/{aid}.html"
+      data-cat="{acat}" data-naam="{naam}" data-plaats="{plaats}"
       data-cheapest="{a['cheapest']}" data-savings="{a['savings']}" data-rating="{a['rating']}">
   <div class="thumb" style="background:{grad(cat)}">
-    <span class="cat">{esc(cat['label'])}</span>{save_badge}
+    <span class="cat">{label}</span>{save_badge}
   </div>
   <div class="card-body">
-    <h3>{esc(a['naam'])}</h3>
-    <div class="loc">\U0001F4CD {esc(a['plaats'])}, {esc(a['provincie'])}</div>
+    <h3>{naam}</h3>
+    <div class="loc">\U0001F4CD {plaats}, {provincie}</div>
     <div class="price-row"><span class="from">vanaf</span><span class="price">{eur(a['cheapest'])}</span>{strike}</div>
     <div class="meta">
       <span class="stars">{stars(a['rating'])} <span style="color:var(--ink-soft)">{a['rating']:.1f}</span></span>
@@ -288,7 +372,8 @@ def build(out=None):
         for o in offers:
             is_best = o["p"] == best
             badge = '<span class="best-badge">goedkoopst</span>' if is_best else ""
-            rows += f"""<tr class="{'best' if is_best else ''}">
+            row_class = "best" if is_best else ""
+            rows += f"""<tr class="{row_class}">
   <td><span class="vendor-name">{esc(o['v'])}</span><span class="tag">{esc(o['t'])}</span>{badge}</td>
   <td class="vprice">{eur(o['p'])}</td>
   <td style="text-align:right"><a class="buy" href="{esc(o['url'])}" rel="nofollow sponsored" target="_blank">Naar ticket →</a></td>
@@ -324,23 +409,47 @@ def build(out=None):
             (cat["label"], base + f"/categorie/{cat['slug']}.html"),
             (a["naam"], canonical),
         ])
-        page = head(f"{a['naam']} tickets vergelijken | {site['name']}",
-                    f"Vergelijk ticketprijzen voor {a['naam']} in {a['plaats']}. Bespaar tot {eur(a['savings'])}.",
-                    "../", site, path=det_path, jsonld=ld_script(prod_ld) + ld_script(bc),
+        rich_html, faq_ld = render_rich_content(a, cat)
+        # TouristAttraction schema (Place-typed, helps Google understand the entity)
+        ta_ld = {
+            "@context": "https://schema.org",
+            "@type": "TouristAttraction",
+            "name": a["naam"],
+            "description": a["omschrijving"],
+            "url": canonical,
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": a["plaats"],
+                "addressRegion": a["provincie"],
+                "addressCountry": "NL",
+            },
+        }
+        title = f"{a['naam']} tickets vergelijken | {site['name']}"
+        desc = f"Vergelijk ticketprijzen voor {a['naam']} in {a['plaats']}. Bespaar tot {eur(a['savings'])}."
+        naam = esc(a["naam"])
+        plaats = esc(a["plaats"])
+        provincie = esc(a["provincie"])
+        cat_label = esc(cat["label"])
+        cat_slug = cat["slug"]
+        omschrijving = esc(a["omschrijving"])
+        rating = a["rating"]
+        page = head(title, desc, "../", site, path=det_path,
+                    jsonld=ld_script(prod_ld) + ld_script(bc) + ld_script(ta_ld) + faq_ld,
                     og_type="product") + f"""
 <section class="detail-hero" style="background:{grad(cat)}"><div class="wrap">
-  <div class="crumb"><a href="../index.html">Home</a> › <a href="../categorie/{cat['slug']}.html">{esc(cat['label'])}</a> › {esc(a['naam'])}</div>
-  <span class="cat">{esc(cat['label'])}</span>
-  <h1>{esc(a['naam'])}</h1>
-  <div class="sub">\U0001F4CD {esc(a['plaats'])}, {esc(a['provincie'])} · {stars(a['rating'])} {a['rating']:.1f}</div>
+  <div class="crumb"><a href="../index.html">Home</a> › <a href="../categorie/{cat_slug}.html">{cat_label}</a> › {naam}</div>
+  <span class="cat">{cat_label}</span>
+  <h1>{naam}</h1>
+  <div class="sub">\U0001F4CD {plaats}, {provincie} · {stars(rating)} {rating:.1f}</div>
 </div></section>
 <main class="wrap detail-body">
-  <p class="lead">{esc(a['omschrijving'])}</p>
+  <p class="lead">{omschrijving}</p>
   {savings_html}
   <h2 class="section-title">Prijsvergelijking</h2>
   <table class="cmp"><thead><tr><th>Aanbieder</th><th>Prijs (volw.)</th><th></th></tr></thead><tbody>{rows}</tbody></table>
   {verified_line}
   <div class="disclaimer">\U0001F4A1 Prijzen zijn richtprijzen en kunnen per bezoekdatum verschillen (veel parken hanteren dynamische prijzen). Controleer altijd de actuele prijs bij de aanbieder voordat je boekt.</div>
+  {rich_html}
 </main>
 """ + foot("../", site)
         write(os.path.join(out, "attractie", f"{a['id']}.html"), page)
@@ -369,16 +478,19 @@ def build(out=None):
         related = ('<div class="related">Vergelijk verder: '
                    '<a href="../index.html">alle attracties</a> · '
                    '<a href="../gids/index.html">meer gidsen</a></div>')
+        h1 = esc(h["h1"])
+        lead = esc(h["lead"])
+        body = h["body"]
         page = head(h["title"], h["description"], "../", site,
                     path=hub_path, jsonld=ld_script(art) + ld_script(bc), og_type="article") + f"""
 <section class="hero slim"><div class="wrap">
-  <div class="crumb"><a href="../index.html">Home</a> › <a href="../gids/index.html">Gidsen</a> › {esc(h['h1'])}</div>
-  <h1>{esc(h['h1'])}</h1>
+  <div class="crumb"><a href="../index.html">Home</a> › <a href="../gids/index.html">Gidsen</a> › {h1}</div>
+  <h1>{h1}</h1>
 </div></section>
 <main class="wrap detail-body">
   <article class="gids">
-    <p class="lead">{esc(h['lead'])}</p>
-    {h['body']}
+    <p class="lead">{lead}</p>
+    {body}
     {related}
   </article>
 </main>
